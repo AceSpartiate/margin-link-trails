@@ -1,6 +1,6 @@
 # Margin link trails
 
-A shared map of **which pages a public teaching page links to**, so a reading-comprehension
+A shared map of **which pages a public teaching site has on it**, so a reading-comprehension
 tool does not have to work that out again on every teacher's machine.
 
 That is all this is. It holds web addresses and the words on the link. It holds no page text,
@@ -25,34 +25,41 @@ Measured afterwards, on the same answer:
 
 The checker was never wrong. It had the wrong haystack.
 
-Working out that the site has fourteen climate subpages costs one page fetch. Doing it once and
+Working out that the site has thirteen climate subpages costs one page fetch. Doing it once and
 sharing the result is the entire idea.
 
-## What a trail is
+## What a map is
 
-For one public page, the same-host pages it links, and the text of each link:
+For one public **site**, the pages known on it and the text of each link:
 
 ```json
 {
-  "https://www.climatetypesforkids.com": [
+  "www.climatetypesforkids.com": [
     { "href": "https://www.climatetypesforkids.com/humid-subtropical-climate", "label": "Humid Subtropical" },
-    { "href": "https://www.climatetypesforkids.com/tundra", "label": "Tundra" }
+    { "href": "https://www.climatetypesforkids.com/tundra-climate", "label": "Tundra" }
   ]
 }
 ```
 
-The link text matters as much as the address: it is how a tool decides which subpage to fetch
-first. A student who writes "Humid Subtropical" has named the page they used.
+Keyed by site rather than by page, so it gets **more complete** every time anybody reads anything
+on that site, and a page three clicks in is as findable as one click in.
 
-See [SCHEMA.md](SCHEMA.md) for the full format.
+The link text matters as much as the address — it is what decides whether a page gets read at all.
+A student who copied the Humid Subtropical page has written "Humid Subtropical" whether they meant
+to or not. A tool should fetch the pages whose label appears in the text it is checking, and fetch
+**nothing** when no label matches. In a real measurement that was the difference between **one**
+page-fetch and twelve, only one of which was the page that mattered.
+
+See [SCHEMA.md](SCHEMA.md) for the full format, including the capability-URL rules.
 
 ## The rule that makes this safe to share
 
-**A trail may only ever add same-host subpages of a page the teacher already linked.**
+**A map is only ever consulted for a host the teacher's own page linked, and every page in it is
+on that host.**
 
-Nothing here can introduce a new host. A trail for `example.org` can only ever contain
-`example.org` pages, so the worst a wrong or malicious entry can do is point at a different page
-of a site the teacher had already chosen to use. It can never send a tool somewhere new.
+Nothing here can introduce a new site. A map for `example.org` can only ever contain `example.org`
+pages, so the worst a wrong or malicious entry can do is point at a different page of a site the
+teacher had already chosen to use. It can never send a tool somewhere new.
 
 That rule is enforced **by the software reading this file, not by the file.** Margin re-checks
 every entry against the host it is being used for and discards anything that does not match,
@@ -69,21 +76,29 @@ verify it, because verifying it is cheap.
 - **No prompts.** Instructions that write comments on children's work should ship and be
   reviewed with the software that writes them, not fetched from a wire.
 - **No URLs with a query string or a fragment**, which is where tokens and document ids live.
+- **No capability URLs** — a Google Doc id, a Drive link, a Dropbox share, a `forms.gle` link, a
+  Canvas course. The address *is* the access control on those, so a list of them is a set of keys
+  rather than a set of addresses. Every one of those passed the first version of the filter written
+  to catch them; see [SCHEMA.md](SCHEMA.md).
 - **No learning-platform URLs**, no `localhost`, no hostname without a dot — an intranet name is
   somebody's private network.
 
 ## Using it
 
-Margin reads this file and merges it with what it has worked out locally. Every rule above is
-applied again on the way in. A trail it has never seen costs nothing to try and saves a page
-fetch when it is right.
+**Nothing reads this file yet.** Margin can *write* it — Options, "Save the link trails" — and the
+reading side is not built. Said plainly because a repository that describes a feature it does not
+have is worse than an empty one.
+
+When it is built, the contract is the one in [SCHEMA.md](SCHEMA.md): merge by host, re-check every
+rule on the way in, and never consult a map for a site the teacher has not themselves linked.
 
 The file is a plain JSON object. Anything that can read JSON can use it.
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md). Short version: URLs only, same host, no query
-strings, public pages, and every entry has to be checkable by opening it in a browser.
+strings, no capability URLs, public pages, and every entry has to be checkable by opening it in a
+browser.
 
 ## Licence
 
