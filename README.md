@@ -85,12 +85,21 @@ verify it, because verifying it is cheap.
 
 ## Using it
 
-**Nothing reads this file yet.** Margin can *write* it — Options, "Save the link trails" — and the
-reading side is not built. Said plainly because a repository that describes a feature it does not
-have is worse than an empty one.
+In Margin: **Options → Get the shared maps**. It reads this file, re-checks every claim in it, and
+merges what survives with what it already knows. It reports how many entries it refused, which is
+the number worth looking at.
 
-When it is built, the contract is the one in [SCHEMA.md](SCHEMA.md): merge by host, re-check every
-rule on the way in, and never consult a map for a site the teacher has not themselves linked.
+Nothing is fetched unless you press it. There is no automatic update, no polling, and no cookies
+travel with the request. Margin also writes this format — **Save the link trails** — so a map you
+build locally can come back here.
+
+If you are writing another consumer, the contract is in [SCHEMA.md](SCHEMA.md), and three rules
+matter more than the rest:
+
+1. Drop any entry whose host differs from its key.
+2. Re-apply every URL rule, including the capability-URL rules. Do not assume the file is clean.
+3. **Never consult a map for a site the user has not themselves linked to.** A map answers *"I am
+   already reading this site, what else is on it"* — never *"here is a site you should read."*
 
 The file is a plain JSON object. Anything that can read JSON can use it.
 
