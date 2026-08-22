@@ -8,21 +8,43 @@ have to take a contribution on trust.
 Margin writes the file for you: **Options → Save the link trails**. It applies every rule in
 [SCHEMA.md](SCHEMA.md) on the way out and tells you how many entries it left out.
 
-Open the file and read it. It should contain only pages you would be happy to see linked from a
-public repository with your name on the commit.
+Then run the checker:
 
-## The checklist a reviewer will use
+```
+node tools/validate.mjs trails/index.json
+```
 
-Every one of these is mechanical. None of them requires knowing anything about your class.
+No dependencies, so there is nothing to install. It prints one line per problem, each naming the
+rule broken, and exits non-zero if anything failed. The same command runs on every pull request.
 
-- [ ] Every `href` is on the **same host** as the key it sits under.
-- [ ] Every URL is `http` or `https`, with **no query string, no fragment, no credentials**.
-- [ ] Every hostname has a dot in it, and is not `localhost` or a loopback address.
-- [ ] No learning-platform URLs. Nothing that requires a login to see.
-- [ ] No files — no `.pdf`, `.png`, `.docx`, and so on.
-- [ ] Opening a sample of the URLs in a browser reaches a **public page** with content on it.
-- [ ] The `label` is the link's own text. Not a description, not a note, not a comment.
-- [ ] Nothing in the diff is text from a page, a student, a rubric, or a curriculum.
+Open the file and read it too. The checker enforces rules; only you can tell whether these are pages
+you would be happy to see linked from a public repository with your name on the commit.
+
+## What the checker enforces, so nobody has to read for it
+
+`tools/validate.mjs` refuses all of this, and names the rule when it does:
+
+- An `href` on a different host from the key it sits under. **This is the one that matters** — it is
+  the rule the whole design rests on.
+- A query string, a fragment, or credentials in a URL.
+- A **capability URL**, where the address is the access control: a Google Doc id, a Drive link, a
+  Dropbox share, a `forms.gle` link, a Canvas course. Caught two ways — a host list, and a
+  path-shape rule for the services nobody has listed yet.
+- A hostname without a dot, `localhost`, or a loopback address.
+- A file rather than a page. A trailing slash. A URL listed twice.
+- A `label` that is not a string, or longer than 120 characters.
+- **Any field other than `href` and `label`** — which is how a stray note about a student would be
+  caught if one ever reached a file.
+
+## The two things a person still has to do
+
+The checker cannot judge these, so a reviewer does:
+
+- [ ] Opening a sample of the URLs reaches a **public page with teaching content on it** — not a
+      sign-up flow, a checkout, or an ad landing page.
+- [ ] The contribution is a plausible set of pages a lesson might send a student to, rather than a
+      whole domain crawled exhaustively. Nobody can review a thousand-entry dump, and it is no more
+      useful than a small one.
 
 ## What will be turned down
 
@@ -53,6 +75,9 @@ were not listed, say so and it will be removed.
 
 ## Privacy
 
-If you believe something in this repository identifies a student, a teacher, or a school, please
-open an issue immediately, or email the maintainer rather than posting details. It will be treated
-as urgent and removed first, discussed after.
+If you believe something in this repository identifies a student, a teacher, or a school, **open an
+issue saying so and leave the details out of it** — say which file and roughly where, not what it
+reveals. It will be removed first and discussed after.
+
+Please do not post the identifying detail in a public issue in order to report it. Saying "there is
+a URL under `example.org` that contains a name" is enough to act on.

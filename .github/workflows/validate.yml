@@ -1,0 +1,23 @@
+name: validate
+
+# Every push and every pull request. A contribution is a list of URLs, and checking a list of URLs
+# is the kind of work that should never be done by a person reading carefully — the first filter
+# written to catch capability URLs let seven through, and it took attacking it to find out.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # No dependencies, so there is nothing to install and nothing to trust.
+      - run: node tools/validate.mjs trails/index.json trails/example.json
