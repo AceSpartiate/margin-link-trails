@@ -1,0 +1,22 @@
+{
+  "what": "An EXAMPLE, not part of the index. Kept so the format is legible without opening a real file, and so a contributor can see what a well-formed entry looks like before writing one.",
+  "rule": "A trail may only add same-host subpages of a url the teacher already linked. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.41.0",
+  "trails": {
+    "https://www.climatetypesforkids.com": [
+      { "href": "https://www.climatetypesforkids.com/tropical-wet-climate", "label": "Tropical Wet" },
+      { "href": "https://www.climatetypesforkids.com/tropical-wet-and-dry-climate", "label": "Tropical Wet and Dry" },
+      { "href": "https://www.climatetypesforkids.com/humid-subtropical-climate", "label": "Humid Subtropical" },
+      { "href": "https://www.climatetypesforkids.com/mediterranean-climate", "label": "Mediterranean" },
+      { "href": "https://www.climatetypesforkids.com/marine-west-coast-climate", "label": "Marine West Coast" },
+      { "href": "https://www.climatetypesforkids.com/humid-continental-climate", "label": "Humid Continental" },
+      { "href": "https://www.climatetypesforkids.com/subarctic-climate", "label": "Subarctic" },
+      { "href": "https://www.climatetypesforkids.com/tundra-climate", "label": "Tundra" },
+      { "href": "https://www.climatetypesforkids.com/ice-cap-climate", "label": "Ice Cap" },
+      { "href": "https://www.climatetypesforkids.com/arid-climate", "label": "Arid" },
+      { "href": "https://www.climatetypesforkids.com/semi-arid-climate", "label": "Semi-Arid" },
+      { "href": "https://www.climatetypesforkids.com/highland-climate", "label": "Highland" },
+      { "href": "https://www.climatetypesforkids.com/causes-of-climate", "label": "Causes of Climate" }
+    ]
+  }
+}

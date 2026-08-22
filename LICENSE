@@ -1,0 +1,28 @@
+CC0 1.0 Universal — Public Domain Dedication
+
+To the extent possible under law, the contributors to this repository have waived all
+copyright and related or neighbouring rights to the trail data it contains.
+
+Full text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Summary:   https://creativecommons.org/publicdomain/zero/1.0/
+
+WHY THIS LICENCE
+
+The data here is a list of which public web pages link to which other public web pages. Those
+are facts. Nobody should need permission to know that one page links to another, and nobody
+should have to credit anyone for finding out.
+
+WHAT THIS LICENCE DOES NOT COVER
+
+Nothing in this repository is anyone else's content, and this dedication is not a claim over
+anything beyond the list itself:
+
+  - The PAGES these addresses point to belong to whoever wrote them. This repository contains
+    none of their text, and any tool using it fetches those pages from their own servers under
+    whatever terms those servers set.
+
+  - Link TEXT is reproduced because it is the only way to know which page is which. A few words
+    of navigation label, kept so software can tell "Humid Subtropical" from "Tundra".
+
+  - The documentation files in this repository (README.md, SCHEMA.md, CONTRIBUTING.md) are also
+    released under CC0.

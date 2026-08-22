@@ -1,0 +1,6 @@
+{
+  "what": "Margin link trails. For a public page, the same-host pages it links and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A trail may only add same-host subpages of a url the teacher already linked. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.41.0",
+  "trails": {}
+}
