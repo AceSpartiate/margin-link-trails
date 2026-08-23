@@ -105,6 +105,21 @@ A bare hostname, exactly as it appears in the URLs beneath it: `www.example.org`
 | --- | --- |
 | `href` | Absolute URL, on the same host as the key. |
 | `label` | The link's own visible text, whitespace collapsed, at most 120 characters. May be empty. |
+| `words` | Optional. How many words the page held when somebody last read it — a whole number, 0 to 1,000,000. Absent means nobody has. |
+
+### Why `words` is worth carrying, and why it is a number
+
+A consumer fetches the pages whose label matches what it is checking, and then throws away anything
+too short to be a source — navigation, a gallery, a stub. The discard is right; spending the fetch
+to reach it is what is wasteful, and it is wasted again on every machine that reads that site.
+
+**Absent is not zero.** A page nobody has read is fetched exactly as before. Only a recorded count
+below a consumer's own floor lets it be skipped, and the floor is the consumer's to choose.
+
+**It is an integer because the entry allowlist is a safety property.** Only `href`, `label` and
+`words` may appear, and that is what stops a stray note about a student travelling inside an entry.
+A bounded number cannot be a note; a third free-text field would have given that away. If a future
+field is wanted, the same test applies — can it carry prose? If yes, it does not belong here.
 
 Every `href` must satisfy all of:
 

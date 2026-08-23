@@ -117,8 +117,16 @@ function validate(path) {
         say(href + ' has a label of ' + entry.label.length + ' characters, over ' + MAX_LABEL);
       }
 
-      const extra = Object.keys(entry).filter(k => k !== 'href' && k !== 'label');
-      if (extra.length) say(href + ' carries ' + extra.join(', ') + ' — only href and label belong here');
+      /* `words` is allowed, and only because it is a NUMBER. This allowlist is what stops a
+         stray note about a child riding along in an entry; a bounded integer cannot be one, and a
+         third string field would have thrown that property away. */
+      if (entry.words !== undefined) {
+        const w = entry.words;
+        if (typeof w !== 'number' || !Number.isFinite(w) || w < 0 || w > 1000000 || Math.round(w) !== w)
+          say(href + ' has a words count that is not a whole number between 0 and 1000000');
+      }
+      const extra = Object.keys(entry).filter(k => k !== 'href' && k !== 'label' && k !== 'words');
+      if (extra.length) say(href + ' carries ' + extra.join(', ') + ' — only href, label and words belong here');
     }
   }
   return { problems, hosts, pages };

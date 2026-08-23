@@ -46,7 +46,9 @@ you would be happy to see linked from a public repository with your name on the 
 - A hostname without a dot, `localhost`, or a loopback address.
 - A file rather than a page. A trailing slash. A URL listed twice.
 - A `label` that is not a string, or longer than 120 characters.
-- **Any field other than `href` and `label`** on an entry, and any field other than `what`, `rule`,
+- **Any field other than `href`, `label` and `words`** on an entry — and `words` has to be a whole
+  number between 0 and 1,000,000, because the reason this list is short is that a number cannot
+  carry a note about a child. Any field other than `what`, `rule`,
   `version`, `checked` and `trails` at the top — which is how a stray note about a student would be
   caught if one ever reached a file, at either level.
 - A file named for a host that describes a **different** host, or more than one. The filename is the
