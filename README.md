@@ -85,9 +85,13 @@ verify it, because verifying it is cheap.
 
 ## Using it
 
-In Margin: **Options → Get the shared maps**. It reads this file, re-checks every claim in it, and
-merges what survives with what it already knows. It reports how many entries it refused, which is
-the number worth looking at.
+In Margin: **Options → Get the shared maps**. It reads the map for each site, re-checks every claim
+in it, and merges what survives with what it already knows. It reports how many entries it refused,
+which is the number worth looking at.
+
+Maps live one file per site — `trails/<host>.json` — so reading one costs one small request rather
+than the whole index. `trails/index.json` is a generated merge of them all, kept for readers written
+before the split.
 
 Nothing is fetched unless you press it. There is no automatic update, no polling, and no cookies
 travel with the request. Margin also writes this format — **Save the link trails** — so a map you

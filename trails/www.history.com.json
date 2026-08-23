@@ -1,0 +1,242 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.44.0",
+  "checked": "2026-08-22",
+  "trails": {
+    "www.history.com": [
+      {
+        "href": "https://www.history.com/classroom",
+        "label": "HISTORY Education"
+      },
+      {
+        "href": "https://www.history.com/collections/20th-century",
+        "label": "20th Century"
+      },
+      {
+        "href": "https://www.history.com/collections/archaeology",
+        "label": "Archaeology"
+      },
+      {
+        "href": "https://www.history.com/collections/best-history-books",
+        "label": "Books"
+      },
+      {
+        "href": "https://www.history.com/collections/holidays",
+        "label": "Holidays"
+      },
+      {
+        "href": "https://www.history.com/espanol/schedule",
+        "label": "HISTORY en Español®"
+      },
+      {
+        "href": "https://www.history.com/military/schedule",
+        "label": "Military HISTORY®"
+      },
+      {
+        "href": "https://www.history.com/topics/19th-century",
+        "label": "19th Century"
+      },
+      {
+        "href": "https://www.history.com/topics/21st-century",
+        "label": "21st Century"
+      },
+      {
+        "href": "https://www.history.com/topics/aapi",
+        "label": "Asian American, Native Hawaiian & Pacific Islander History"
+      },
+      {
+        "href": "https://www.history.com/topics/africa",
+        "label": "African History"
+      },
+      {
+        "href": "https://www.history.com/topics/american-civil-war",
+        "label": "Civil War"
+      },
+      {
+        "href": "https://www.history.com/topics/american-revolution",
+        "label": "American Revolution"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-americas",
+        "label": "Ancient Americas"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-china",
+        "label": "Ancient China"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-egypt",
+        "label": "Ancient Egypt"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-greece",
+        "label": "Ancient Greece"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-middle-east",
+        "label": "Ancient Middle East"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-rome",
+        "label": "Ancient Rome"
+      },
+      {
+        "href": "https://www.history.com/topics/art-history",
+        "label": "Arts & Entertainment"
+      },
+      {
+        "href": "https://www.history.com/topics/asian-history",
+        "label": "Asian History"
+      },
+      {
+        "href": "https://www.history.com/topics/black-history",
+        "label": "Black History"
+      },
+      {
+        "href": "https://www.history.com/topics/cold-war",
+        "label": "Cold War"
+      },
+      {
+        "href": "https://www.history.com/topics/colonial-america",
+        "label": "Colonial America"
+      },
+      {
+        "href": "https://www.history.com/topics/crime",
+        "label": "Crime"
+      },
+      {
+        "href": "https://www.history.com/topics/early-us",
+        "label": "Early U.S."
+      },
+      {
+        "href": "https://www.history.com/topics/european-history",
+        "label": "European History"
+      },
+      {
+        "href": "https://www.history.com/topics/exploration",
+        "label": "Exploration"
+      },
+      {
+        "href": "https://www.history.com/topics/first-ladies",
+        "label": "First Ladies"
+      },
+      {
+        "href": "https://www.history.com/topics/folklore",
+        "label": "Mysteries & Folklore"
+      },
+      {
+        "href": "https://www.history.com/topics/food",
+        "label": "Food"
+      },
+      {
+        "href": "https://www.history.com/topics/great-depression",
+        "label": "Great Depression"
+      },
+      {
+        "href": "https://www.history.com/topics/hispanic-history",
+        "label": "Hispanic History"
+      },
+      {
+        "href": "https://www.history.com/topics/holocaust",
+        "label": "Holocaust"
+      },
+      {
+        "href": "https://www.history.com/topics/immigration",
+        "label": "Immigration"
+      },
+      {
+        "href": "https://www.history.com/topics/industrial-revolution",
+        "label": "Industrial Revolution"
+      },
+      {
+        "href": "https://www.history.com/topics/inventions",
+        "label": "Inventions & Science"
+      },
+      {
+        "href": "https://www.history.com/topics/landmarks",
+        "label": "Landmarks"
+      },
+      {
+        "href": "https://www.history.com/topics/latin-america",
+        "label": "Latin American & Caribbean History"
+      },
+      {
+        "href": "https://www.history.com/topics/lgbtq",
+        "label": "LGBTQ+ History"
+      },
+      {
+        "href": "https://www.history.com/topics/middle-ages",
+        "label": "Middle Ages"
+      },
+      {
+        "href": "https://www.history.com/topics/middle-east",
+        "label": "Middle Eastern History"
+      },
+      {
+        "href": "https://www.history.com/topics/native-american-history",
+        "label": "Native American History"
+      },
+      {
+        "href": "https://www.history.com/topics/natural-disasters-and-environment",
+        "label": "Natural Disasters & Environment"
+      },
+      {
+        "href": "https://www.history.com/topics/pre-history",
+        "label": "Prehistory"
+      },
+      {
+        "href": "https://www.history.com/topics/religion",
+        "label": "Religion"
+      },
+      {
+        "href": "https://www.history.com/topics/renaissance",
+        "label": "Renaissance"
+      },
+      {
+        "href": "https://www.history.com/topics/slavery",
+        "label": "Slavery"
+      },
+      {
+        "href": "https://www.history.com/topics/space-exploration",
+        "label": "Space Exploration"
+      },
+      {
+        "href": "https://www.history.com/topics/sports",
+        "label": "Sports"
+      },
+      {
+        "href": "https://www.history.com/topics/united-states-constitution",
+        "label": "U.S. Constitution"
+      },
+      {
+        "href": "https://www.history.com/topics/us-government-and-politics",
+        "label": "U.S. Government and Politics"
+      },
+      {
+        "href": "https://www.history.com/topics/us-presidents",
+        "label": "U.S. Presidents"
+      },
+      {
+        "href": "https://www.history.com/topics/us-states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "https://www.history.com/topics/vietnam-war",
+        "label": "Vietnam War"
+      },
+      {
+        "href": "https://www.history.com/topics/womens-history",
+        "label": "Women’s History"
+      },
+      {
+        "href": "https://www.history.com/topics/world-war-i",
+        "label": "World War I"
+      },
+      {
+        "href": "https://www.history.com/topics/world-war-ii",
+        "label": "World War II"
+      }
+    ]
+  }
+}

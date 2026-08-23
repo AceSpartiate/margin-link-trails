@@ -1,0 +1,106 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.44.0",
+  "checked": "2026-08-22",
+  "trails": {
+    "earthhow.com": [
+      {
+        "href": "https://earthhow.com/7-major-tectonic-plates",
+        "label": "tectonic plate boundaries"
+      },
+      {
+        "href": "https://earthhow.com/atmosphere",
+        "label": "Atmosphere"
+      },
+      {
+        "href": "https://earthhow.com/biology",
+        "label": "Biology"
+      },
+      {
+        "href": "https://earthhow.com/coral-reef-facts",
+        "label": "Coral Reef Facts: Ocean Biodiversity Hotspots"
+      },
+      {
+        "href": "https://earthhow.com/divergent-plate-boundaries-tectonics",
+        "label": "divergent plate boundaries"
+      },
+      {
+        "href": "https://earthhow.com/earth-crust-oceanic-crust-continental-crust",
+        "label": "Earth’s Crust: Oceanic Crust vs Continental Crust"
+      },
+      {
+        "href": "https://earthhow.com/escape-velocity-earth-closed-system",
+        "label": "What is Earth’s Escape Velocity?"
+      },
+      {
+        "href": "https://earthhow.com/eutrophication-causes-process-examples",
+        "label": "How Does Eutrophication Work? Causes, Process and Examples"
+      },
+      {
+        "href": "https://earthhow.com/geology",
+        "label": "Geology"
+      },
+      {
+        "href": "https://earthhow.com/groundwater",
+        "label": "A Guide to Groundwater: Earth’s Hidden Freshwater Supply"
+      },
+      {
+        "href": "https://earthhow.com/how-much-water-is-on-earth",
+        "label": "Water consumes 71% of Earth"
+      },
+      {
+        "href": "https://earthhow.com/hydrologic-cycle",
+        "label": "What is the Hydrologic Cycle? 3 Steps of the Water Cycle"
+      },
+      {
+        "href": "https://earthhow.com/hydrosphere",
+        "label": "The Hydrosphere: A Deep Dive into Earth’s Water"
+      },
+      {
+        "href": "https://earthhow.com/ocean-currents",
+        "label": "sailed along major ocean currents"
+      },
+      {
+        "href": "https://earthhow.com/ocean-exploration",
+        "label": "about 80% of all oceans in the world are unexplored"
+      },
+      {
+        "href": "https://earthhow.com/ocean-salinity-salt",
+        "label": "Ocean Salinity: How Much Salt is in Oceans?"
+      },
+      {
+        "href": "https://earthhow.com/ocean-tides",
+        "label": "What Causes Ocean Tides?"
+      },
+      {
+        "href": "https://earthhow.com/origin-of-water-comets-volcanoes-outgassing",
+        "label": "Did Earth’s First Water Come from Comets, Volcanoes or Asteroids?"
+      },
+      {
+        "href": "https://earthhow.com/river-delta",
+        "label": "River Delta: How It Forms"
+      },
+      {
+        "href": "https://earthhow.com/sea-level-rise-effects-projections",
+        "label": "sea levels to rise"
+      },
+      {
+        "href": "https://earthhow.com/space",
+        "label": "Space"
+      },
+      {
+        "href": "https://earthhow.com/water",
+        "label": "Water"
+      },
+      {
+        "href": "https://earthhow.com/watersheds-catchment-basins",
+        "label": "Why Watersheds Are Like Upside-Down Umbrellas"
+      },
+      {
+        "href": "https://earthhow.com/what-is-oceanography",
+        "label": "oceanography is an emerging science"
+      }
+    ]
+  }
+}

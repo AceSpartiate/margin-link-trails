@@ -1,12 +1,14 @@
 # Format
 
-One JSON file. One object. Keys are **hosts**; values are the pages known on that host.
+One JSON file per site: `trails/<host>.json`. Inside it, one object whose `trails` key holds
+exactly that one host, and whose value is the pages known on it.
 
 ```json
 {
   "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
   "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
   "version": "1.42.0",
+  "checked": "2026-08-22",
   "trails": {
     "www.climatetypesforkids.com": [
       { "href": "https://www.climatetypesforkids.com/humid-subtropical-climate", "label": "Humid Subtropical" },
@@ -15,6 +17,36 @@ One JSON file. One object. Keys are **hosts**; values are the pages known on tha
   }
 }
 ```
+
+## One file per site, and the filename is the claim
+
+`trails/www.climatetypesforkids.com.json` describes that host and nothing else. The name is not a
+convenience; it is the security property, and it buys two things nothing else does.
+
+**A contribution can be judged by its path.** A change touching one host file can only affect that
+host — CI checks the contents against the filename — so "may this be merged" stops being a question
+about a hundred URLs somebody has to read carefully and becomes a rule a machine applies. That
+matters because reading URLs carefully is exactly what does not work: the first filter written to
+catch capability URLs let seven through.
+
+**A reader fetches only what it is already looking at.** A consumer wants the pages on one site it
+has in front of it. Keyed per file, that is one small request; in one combined file it is the whole
+index, growing with every site anybody ever adds, downloaded to answer a question about one of them.
+
+There is no list of exceptions, which is the point: `index.json` and `example.json` are not host
+files because `index` and `example` are not hosts — they have no dot. A file added later called
+`sample.json` is not one either, and nobody has to remember to say so.
+
+### `trails/index.json` is generated
+
+Every host file, merged, for readers written before the split — including a copy of Margin on a
+laptop that does not get updated often. Deleting it would break a working button to save a fetch
+nobody has to make.
+
+It is rebuilt by `node tools/build-index.mjs`, and CI fails if it has drifted, so a page added to it
+by hand is caught rather than quietly accepted. **Add pages to the host file, never to the
+aggregate.** It carries no `checked` date: its sites were crawled on different days, and one date
+over all of them would be a claim about the oldest that is only true of the newest.
 
 ## Why the unit is a host and not a page
 
@@ -40,7 +72,27 @@ and nobody has to rediscover it.
 | `what` | A sentence saying what the file holds, so a file found on its own explains itself. |
 | `rule` | The same-host invariant, restated. Informational — the reader enforces it. |
 | `version` | The Margin version that wrote the file. Not a schema version; the schema is this document. |
-| `trails` | The map. Keys are hosts, values are arrays of `{ href, label }`. |
+| `checked` | The day this host's list was last derived **from the site itself**, `YYYY-MM-DD`. Required on a host file, forbidden on the aggregate. See below. |
+| `trails` | The map. Keys are hosts, values are arrays of `{ href, label }`. A host file has exactly one key, equal to its filename. |
+
+## `checked` — and what may move it
+
+A wall-clock day, because that is all the precision a crawl deserves and it carries no time zone to
+argue about. It is refused if it is not a real date or if it is in the future.
+
+**Only fetching the pages may move it.** Copying a file, reformatting it, or merging somebody else's
+map into yours are none of them evidence that the site still looks like this — and a clock that any
+of those could reset is a clock that never expires, because two consumers handing each other the
+same stale list would keep it fresh for ever. Re-derive the list from the site, then set the date.
+
+A consumer decides for itself how old is too old, and should treat a missing or stale date as "I do
+not know", never as "this is wrong": the entries are still worth trying, and a page that has gone
+costs one failed fetch to find out.
+
+**Merging never removes.** A re-crawl that finds pages gone has no way to say so — the format unions
+by `href` — and that is deliberate: a dead entry costs one failed request, while letting a
+contribution delete entries would let a bad one remove the page that mattered. So "checked" honestly
+means *re-derived, and anything new was added*, not *pruned*.
 
 ## A key — the host
 

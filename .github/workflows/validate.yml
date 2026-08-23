@@ -20,4 +20,9 @@ jobs:
         with:
           node-version: '20'
       # No dependencies, so there is nothing to install and nothing to trust.
-      - run: node tools/validate.mjs trails/index.json trails/example.json
+      # No arguments: every .json under trails/ is checked, so a host file added by hand cannot
+      # be missed by forgetting to name it here.
+      - run: node tools/validate.mjs
+      # trails/index.json is GENERATED from the per-host files. This fails if somebody edited it
+      # directly, which would otherwise survive review looking exactly like a real contribution.
+      - run: node tools/build-index.mjs --check

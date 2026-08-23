@@ -1,0 +1,12 @@
+# LF everywhere, in the working tree as well as in the index.
+#
+# WHY THIS FILE EXISTS. `tools/build-index.mjs --check` compares the bytes it would generate
+# against the bytes on disk, and it generates LF. On a machine with `core.autocrlf=true` -- which
+# is the setting on the machine this repo is developed on -- a checkout would rewrite every file
+# to CRLF, and that check would then report drift on a clean tree while passing in CI, where the
+# runner has no such setting. A check that fails only on the author's machine is a check that
+# gets switched off.
+#
+# It also matters for what this repo is: the trail files are read by software, on whatever
+# platform. A byte-for-byte stable file is the point.
+* text=auto eol=lf

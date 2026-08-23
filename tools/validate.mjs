@@ -1,8 +1,15 @@
 #!/usr/bin/env node
 /* Check a trails file against every rule in SCHEMA.md.
  *
- *   node tools/validate.mjs trails/index.json
- *   node tools/validate.mjs            (checks trails/index.json and trails/example.json)
+ *   node tools/validate.mjs trails/earthhow.com.json
+ *   node tools/validate.mjs            (checks every .json under trails/)
+ *
+ * THE FILENAME IS THE HOST CLAIM. `trails/<host>.json` may describe that host and nothing else,
+ * and this checks the contents against the name. That is what makes a contribution mergeable
+ * without a person reading it: the path bounds what the change can affect before anybody looks
+ * inside, so review is a rule rather than an act of care. `index.json` is the generated
+ * aggregate, for readers that predate the split; `example.json` is the documented example.
+ * Neither is a host file, because neither `index` nor `example` is a host.
  *
  * No dependencies. Exits non-zero if anything fails, so CI can use it.
  *
@@ -19,54 +26,8 @@
  * direction, which is the only kind of duplication worth having.
  */
 
-import { readFileSync } from 'node:fs';
-
-/* ---------- the rules ---------- */
-
-/* Hosts where a path is somebody's own space, or where the address is the password.
-   Kept in step with NEVER_SHARE in Margin's config.js. */
-const NEVER_HOSTS = [
-  'google.com', 'googleusercontent.com', 'gle', 'goo.gl',
-  'dropbox.com', 'box.com', 'onedrive.live.com', '1drv.ms', 'sharepoint.com',
-  'icloud.com', 'wetransfer.com', 'mega.nz',
-  'instructure.com', 'schoology.com', 'canvas.net', 'blackboard.com', 'moodlecloud.com',
-  'seesaw.me', 'classdojo.com', 'padlet.com', 'wakelet.com', 'flip.com', 'flipgrid.com',
-  'nearpod.com', 'peardeck.com', 'quizizz.com', 'blooket.com', 'kahoot.it', 'gimkit.com',
-  'exploros.com',
-  'bit.ly', 'tinyurl.com', 't.co', 'ow.ly', 'rebrand.ly'
-];
-
-/* An opaque id in the path: long, mixed letters and digits, and no separator. Real page slugs use
-   hyphens (`humid-subtropical-climate`); ids do not. Narrow on purpose — a rule that also refused
-   ordinary slugs would get switched off. */
-const IDISH = /(^|\/)(?=[^/]{16,})(?=[^/]*[A-Za-z])(?=[^/]*\d)[A-Za-z0-9]+(\/|$)/;
-const UUID = /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
-const FILE = /\.(png|jpe?g|gif|svg|webp|ico|pdf|zip|docx?|pptx?|xlsx?|mp[34]|mov|avi|css|js)$/i;
-const LOOPBACK = /^(localhost|127\.0\.0\.1|\[::1\]|0\.0\.0\.0)$/i;
-
-const MAX_LABEL = 120;
-const MAX_BYTES = 4 * 1024 * 1024;
-const MAX_PER_HOST = 400;
-
-/* Returns the reason a url may not appear, or '' if it may. */
-function refuse(raw) {
-  let u = null;
-  try { u = new URL(String(raw || '')); } catch (e) { return 'not a url'; }
-  if (u.protocol !== 'https:' && u.protocol !== 'http:') return 'not http(s)';
-  if (u.search) return 'has a query string, which is where tokens live';
-  if (u.hash) return 'has a fragment';
-  if (u.username || u.password) return 'carries credentials';
-  if (LOOPBACK.test(u.hostname)) return 'is a loopback address';
-  if (!u.hostname.includes('.')) return 'hostname has no dot, so it is a private network name';
-  for (const bad of NEVER_HOSTS) {
-    if (u.hostname === bad || u.hostname.endsWith('.' + bad)) return 'is on ' + bad;
-  }
-  if (UUID.test(u.pathname)) return 'has a uuid in the path';
-  if (IDISH.test(u.pathname)) return 'has an opaque id in the path — the address may be the password';
-  if (FILE.test(u.pathname)) return 'is a file, not a page';
-  if (u.pathname !== '/' && u.pathname.endsWith('/')) return 'has a trailing slash';
-  return '';
-}
+import { readFileSync, readdirSync } from 'node:fs';
+import { refuse, hostOfFile, badChecked, MAX_LABEL, MAX_BYTES, MAX_PER_HOST } from './rules.mjs';
 
 /* ---------- the check ---------- */
 
@@ -86,6 +47,32 @@ function validate(path) {
 
   for (const field of ['what', 'rule', 'version']) {
     if (typeof body[field] !== 'string' || !body[field].trim()) say('has no ' + field);
+  }
+
+  /* A HOST FILE MAY ONLY DESCRIBE ITS OWN HOST, AND IT HAS TO SAY WHEN IT WAS CHECKED.
+     The aggregate carries neither rule: it is a union of many hosts, and a union of lists
+     crawled on different days cannot honestly carry one date. */
+  /* THE SAME RULE AS ON AN ENTRY, ONE LEVEL UP. Entries have been held to an allowlist since the
+     beginning, for the reason CONTRIBUTING gives: it is how a stray note about a child would be
+     caught. The top level was never held to one, so the identical mistake made one line higher
+     would have passed. */
+  const TOP = ['what', 'rule', 'version', 'checked', 'trails'];
+  for (const field of Object.keys(body)) {
+    if (!TOP.includes(field)) say('carries a top-level "' + field + '" — only ' + TOP.join(', ') + ' belong here');
+  }
+
+  const claimed = hostOfFile(path);
+  if (claimed) {
+    const keys = body.trails && typeof body.trails === 'object' ? Object.keys(body.trails) : [];
+    if (keys.length !== 1) {
+      say('is named for ' + claimed + ', so it must hold exactly that one host, not ' + keys.length);
+    } else if (keys[0] !== claimed) {
+      say('is named for ' + claimed + ' but describes ' + keys[0]);
+    }
+    const why = badChecked(body.checked, new Date().toISOString().slice(0, 10));
+    if (why) say('checked ' + why + ' — a host file records the day its list came off the site');
+  } else if (body.checked !== undefined) {
+    say('carries a checked date, but only a per-host file may: this one covers several hosts');
   }
   if (!body.trails || typeof body.trails !== 'object' || Array.isArray(body.trails)) {
     say('has no trails object');
@@ -140,7 +127,14 @@ function validate(path) {
 /* ---------- run it ---------- */
 
 const files = process.argv.slice(2);
-const targets = files.length ? files : ['trails/index.json', 'trails/example.json'];
+/* Every .json under trails/, so a host file added by hand cannot be missed by forgetting to
+   name it here. Sorted, so CI output reads the same on every run. */
+const targets = files.length
+  ? files
+  : readdirSync('trails')
+      .filter(n => n.toLowerCase().endsWith('.json'))
+      .sort()
+      .map(n => 'trails/' + n);
 let bad = 0;
 
 for (const path of targets) {
