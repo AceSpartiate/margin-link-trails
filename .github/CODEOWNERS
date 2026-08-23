@@ -1,0 +1,19 @@
+# Every change here requests a review from the repository owner automatically.
+#
+# WHY THIS FILE EXISTS. This index is read by software that writes comments on children's work, so
+# the rule the whole design rests on is that a stranger's URLs wait for a person. The relay opens
+# contributions as pull requests rather than commits for exactly that reason -- but "somebody will
+# look at it" is not a mechanism, and it stops being true the moment there is more than one
+# contributor and a busy week.
+#
+# CODEOWNERS is the mechanism. A review is requested on every pull request without anyone
+# remembering to ask for one.
+#
+# WHAT IT DOES NOT DO. It requests; it does not block. Merging is gated separately, by branch
+# protection requiring the `rules` check -- the repository's own validator -- to pass. That gate is
+# deliberately NOT set to enforce against administrators, so the owner can always push directly and
+# can never be locked out of their own repository by a misconfigured check.
+#
+# The validator is what actually protects this file's contents. Reading a hundred URLs carefully is
+# the review that does not work: the first filter written to catch capability URLs let seven through.
+* @AceSpartiate
