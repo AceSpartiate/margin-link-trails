@@ -1,0 +1,533 @@
+{
+  "what": "A trail contribution, sent by Margin. Web addresses and link text only.",
+  "trails": {
+    "kids.nationalgeographic.com": [
+      {
+        "href": "https://kids.nationalgeographic.com",
+        "label": ""
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals",
+        "label": "Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/amphibians",
+        "label": "Amphibians"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/birds",
+        "label": "Birds"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish",
+        "label": "Fish"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/invertebrates",
+        "label": "Invertebrates"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals",
+        "label": "Mammals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/prehistoric",
+        "label": "Prehistoric"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/reptiles",
+        "label": "Reptiles"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games",
+        "label": "Games"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-and-adventure",
+        "label": "Action"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/funny-fill-in",
+        "label": "Funny Fill-In"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes",
+        "label": "Personality Quizzes"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles",
+        "label": "Puzzles"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes",
+        "label": "Quizzes"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history",
+        "label": "history"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-california",
+        "label": "Native People of California"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-great-basin",
+        "label": "People of the American Great Basin"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-great-plains",
+        "label": "Native People of the American Great Plains"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-northeast",
+        "label": "Native People of the American Northeast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-northwest-coast",
+        "label": "Native People of the American Northwest Coast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-southeast",
+        "label": "Native People of the American Southeast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-southwest",
+        "label": "People of the American Southwest"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-arctic-and-subarctic",
+        "label": "Native People of the Arctic and Subarctic"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/magazine",
+        "label": "Magazine"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/science",
+        "label": "Science"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/space",
+        "label": "Space"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos",
+        "label": "Videos"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/amazing-animals",
+        "label": "Amazing Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/party-animals",
+        "label": "Party Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/try-this",
+        "label": "Try This!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/weird-but-true-shorts",
+        "label": "Weird But True!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/weird-but-true",
+        "label": "Weird But True!"
+      }
+    ],
+    "earthhow.com": [
+      {
+        "href": "https://earthhow.com/7-major-tectonic-plates",
+        "label": "tectonic plate boundaries"
+      },
+      {
+        "href": "https://earthhow.com/atmosphere",
+        "label": "Atmosphere"
+      },
+      {
+        "href": "https://earthhow.com/biology",
+        "label": "Biology"
+      },
+      {
+        "href": "https://earthhow.com/coral-reef-facts",
+        "label": "Coral Reef Facts: Ocean Biodiversity Hotspots"
+      },
+      {
+        "href": "https://earthhow.com/divergent-plate-boundaries-tectonics",
+        "label": "divergent plate boundaries"
+      },
+      {
+        "href": "https://earthhow.com/earth-crust-oceanic-crust-continental-crust",
+        "label": "Earth’s Crust: Oceanic Crust vs Continental Crust"
+      },
+      {
+        "href": "https://earthhow.com/escape-velocity-earth-closed-system",
+        "label": "What is Earth’s Escape Velocity?"
+      },
+      {
+        "href": "https://earthhow.com/eutrophication-causes-process-examples",
+        "label": "How Does Eutrophication Work? Causes, Process and Examples"
+      },
+      {
+        "href": "https://earthhow.com/geology",
+        "label": "Geology"
+      },
+      {
+        "href": "https://earthhow.com/groundwater",
+        "label": "A Guide to Groundwater: Earth’s Hidden Freshwater Supply"
+      },
+      {
+        "href": "https://earthhow.com/how-much-water-is-on-earth",
+        "label": "Water consumes 71% of Earth"
+      },
+      {
+        "href": "https://earthhow.com/hydrologic-cycle",
+        "label": "What is the Hydrologic Cycle? 3 Steps of the Water Cycle"
+      },
+      {
+        "href": "https://earthhow.com/hydrosphere",
+        "label": "The Hydrosphere: A Deep Dive into Earth’s Water"
+      },
+      {
+        "href": "https://earthhow.com/ocean-currents",
+        "label": "sailed along major ocean currents"
+      },
+      {
+        "href": "https://earthhow.com/ocean-exploration",
+        "label": "about 80% of all oceans in the world are unexplored"
+      },
+      {
+        "href": "https://earthhow.com/ocean-salinity-salt",
+        "label": "Ocean Salinity: How Much Salt is in Oceans?"
+      },
+      {
+        "href": "https://earthhow.com/ocean-tides",
+        "label": "What Causes Ocean Tides?"
+      },
+      {
+        "href": "https://earthhow.com/origin-of-water-comets-volcanoes-outgassing",
+        "label": "Did Earth’s First Water Come from Comets, Volcanoes or Asteroids?"
+      },
+      {
+        "href": "https://earthhow.com/river-delta",
+        "label": "River Delta: How It Forms"
+      },
+      {
+        "href": "https://earthhow.com/sea-level-rise-effects-projections",
+        "label": "sea levels to rise"
+      },
+      {
+        "href": "https://earthhow.com/space",
+        "label": "Space"
+      },
+      {
+        "href": "https://earthhow.com/water",
+        "label": "Water"
+      },
+      {
+        "href": "https://earthhow.com/watersheds-catchment-basins",
+        "label": "Why Watersheds Are Like Upside-Down Umbrellas"
+      },
+      {
+        "href": "https://earthhow.com/what-is-oceanography",
+        "label": "oceanography is an emerging science"
+      }
+    ],
+    "www.climatetypesforkids.com": [
+      {
+        "href": "https://www.climatetypesforkids.com",
+        "label": "CLIMATE TYPES FOR KIDS"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/arid-climate",
+        "label": "Arid"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/causes-of-climate",
+        "label": "Causes of Climate"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/highland-climate",
+        "label": "Highland"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/humid-continental-climate",
+        "label": "Humid Continental"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/humid-subtropical-climate",
+        "label": "Humid Subtropical"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/ice-cap-climate",
+        "label": "Ice Cap"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/marine-west-coast-climate",
+        "label": "Marine West Coast"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/mediterranean-climate",
+        "label": "Mediterranean"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/semi-arid-climate",
+        "label": "Semi-Arid"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/subarctic-climate",
+        "label": "Subarctic"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/tropical-wet-and-dry-climate",
+        "label": "Tropical Wet and Dry"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/tropical-wet-climate",
+        "label": "Tropical Wet"
+      },
+      {
+        "href": "https://www.climatetypesforkids.com/tundra-climate",
+        "label": "Tundra"
+      }
+    ],
+    "www.history.com": [
+      {
+        "href": "https://www.history.com/classroom",
+        "label": "HISTORY Education"
+      },
+      {
+        "href": "https://www.history.com/collections/20th-century",
+        "label": "20th Century"
+      },
+      {
+        "href": "https://www.history.com/collections/archaeology",
+        "label": "Archaeology"
+      },
+      {
+        "href": "https://www.history.com/collections/best-history-books",
+        "label": "Books"
+      },
+      {
+        "href": "https://www.history.com/collections/holidays",
+        "label": "Holidays"
+      },
+      {
+        "href": "https://www.history.com/espanol/schedule",
+        "label": "HISTORY en Español®"
+      },
+      {
+        "href": "https://www.history.com/military/schedule",
+        "label": "Military HISTORY®"
+      },
+      {
+        "href": "https://www.history.com/topics/19th-century",
+        "label": "19th Century"
+      },
+      {
+        "href": "https://www.history.com/topics/21st-century",
+        "label": "21st Century"
+      },
+      {
+        "href": "https://www.history.com/topics/aapi",
+        "label": "Asian American, Native Hawaiian & Pacific Islander History"
+      },
+      {
+        "href": "https://www.history.com/topics/africa",
+        "label": "African History"
+      },
+      {
+        "href": "https://www.history.com/topics/american-civil-war",
+        "label": "Civil War"
+      },
+      {
+        "href": "https://www.history.com/topics/american-revolution",
+        "label": "American Revolution"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-americas",
+        "label": "Ancient Americas"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-china",
+        "label": "Ancient China"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-egypt",
+        "label": "Ancient Egypt"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-greece",
+        "label": "Ancient Greece"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-middle-east",
+        "label": "Ancient Middle East"
+      },
+      {
+        "href": "https://www.history.com/topics/ancient-rome",
+        "label": "Ancient Rome"
+      },
+      {
+        "href": "https://www.history.com/topics/art-history",
+        "label": "Arts & Entertainment"
+      },
+      {
+        "href": "https://www.history.com/topics/asian-history",
+        "label": "Asian History"
+      },
+      {
+        "href": "https://www.history.com/topics/black-history",
+        "label": "Black History"
+      },
+      {
+        "href": "https://www.history.com/topics/cold-war",
+        "label": "Cold War"
+      },
+      {
+        "href": "https://www.history.com/topics/colonial-america",
+        "label": "Colonial America"
+      },
+      {
+        "href": "https://www.history.com/topics/crime",
+        "label": "Crime"
+      },
+      {
+        "href": "https://www.history.com/topics/early-us",
+        "label": "Early U.S."
+      },
+      {
+        "href": "https://www.history.com/topics/european-history",
+        "label": "European History"
+      },
+      {
+        "href": "https://www.history.com/topics/exploration",
+        "label": "Exploration"
+      },
+      {
+        "href": "https://www.history.com/topics/first-ladies",
+        "label": "First Ladies"
+      },
+      {
+        "href": "https://www.history.com/topics/folklore",
+        "label": "Mysteries & Folklore"
+      },
+      {
+        "href": "https://www.history.com/topics/food",
+        "label": "Food"
+      },
+      {
+        "href": "https://www.history.com/topics/great-depression",
+        "label": "Great Depression"
+      },
+      {
+        "href": "https://www.history.com/topics/hispanic-history",
+        "label": "Hispanic History"
+      },
+      {
+        "href": "https://www.history.com/topics/holocaust",
+        "label": "Holocaust"
+      },
+      {
+        "href": "https://www.history.com/topics/immigration",
+        "label": "Immigration"
+      },
+      {
+        "href": "https://www.history.com/topics/industrial-revolution",
+        "label": "Industrial Revolution"
+      },
+      {
+        "href": "https://www.history.com/topics/inventions",
+        "label": "Inventions & Science"
+      },
+      {
+        "href": "https://www.history.com/topics/landmarks",
+        "label": "Landmarks"
+      },
+      {
+        "href": "https://www.history.com/topics/latin-america",
+        "label": "Latin American & Caribbean History"
+      },
+      {
+        "href": "https://www.history.com/topics/lgbtq",
+        "label": "LGBTQ+ History"
+      },
+      {
+        "href": "https://www.history.com/topics/middle-ages",
+        "label": "Middle Ages"
+      },
+      {
+        "href": "https://www.history.com/topics/middle-east",
+        "label": "Middle Eastern History"
+      },
+      {
+        "href": "https://www.history.com/topics/native-american-history",
+        "label": "Native American History"
+      },
+      {
+        "href": "https://www.history.com/topics/natural-disasters-and-environment",
+        "label": "Natural Disasters & Environment"
+      },
+      {
+        "href": "https://www.history.com/topics/pre-history",
+        "label": "Prehistory"
+      },
+      {
+        "href": "https://www.history.com/topics/religion",
+        "label": "Religion"
+      },
+      {
+        "href": "https://www.history.com/topics/renaissance",
+        "label": "Renaissance"
+      },
+      {
+        "href": "https://www.history.com/topics/slavery",
+        "label": "Slavery"
+      },
+      {
+        "href": "https://www.history.com/topics/space-exploration",
+        "label": "Space Exploration"
+      },
+      {
+        "href": "https://www.history.com/topics/sports",
+        "label": "Sports"
+      },
+      {
+        "href": "https://www.history.com/topics/united-states-constitution",
+        "label": "U.S. Constitution"
+      },
+      {
+        "href": "https://www.history.com/topics/us-government-and-politics",
+        "label": "U.S. Government and Politics"
+      },
+      {
+        "href": "https://www.history.com/topics/us-presidents",
+        "label": "U.S. Presidents"
+      },
+      {
+        "href": "https://www.history.com/topics/us-states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "https://www.history.com/topics/vietnam-war",
+        "label": "Vietnam War"
+      },
+      {
+        "href": "https://www.history.com/topics/womens-history",
+        "label": "Women’s History"
+      },
+      {
+        "href": "https://www.history.com/topics/world-war-i",
+        "label": "World War I"
+      },
+      {
+        "href": "https://www.history.com/topics/world-war-ii",
+        "label": "World War II"
+      }
+    ]
+  }
+}
