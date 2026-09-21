@@ -1,0 +1,414 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.61",
+  "checked": "2026-09-03",
+  "trails": {
+    "venngage.com": [
+      {
+        "href": "https://venngage.com/ai-tools",
+        "label": "AI"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/ai-contract-generator",
+        "label": "AI Contract Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/book-cover-generator",
+        "label": "AI Book Cover Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/brochure-generator",
+        "label": "AI Brochure Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/catalog-generator",
+        "label": "AI Catalog Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/chart",
+        "label": "AI Chart Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/flowchart-generator",
+        "label": "AI Flowchart Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/flyer-generator",
+        "label": "AI Flyer Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/infographic-generator",
+        "label": "AI Infographic Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/newsletter-generator",
+        "label": "AI Newsletter Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/one-pager-generator",
+        "label": "AI One Pager Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/pitch-deck-generator",
+        "label": "AI Pitch Deck Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/poster-generator",
+        "label": "AI Poster Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/proposal-generator",
+        "label": "AI Proposal Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/report-generator",
+        "label": "AI Report Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/roadmap-generator",
+        "label": "AI Roadmap Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/timeline-generator",
+        "label": "AI Timeline Generator"
+      },
+      {
+        "href": "https://venngage.com/ai-tools/white-paper-generator",
+        "label": "AI White Paper Generator"
+      },
+      {
+        "href": "https://venngage.com/blog",
+        "label": "Learn"
+      },
+      {
+        "href": "https://venngage.com/blog/ai-marketing-tools",
+        "label": "Top 30+ AI Marketing Tools for Growth in 2026"
+      },
+      {
+        "href": "https://venngage.com/blog/author/lydia-hooper",
+        "label": "Lydia Hooper"
+      },
+      {
+        "href": "https://venngage.com/blog/bad-infographics",
+        "label": "not making a bad one"
+      },
+      {
+        "href": "https://venngage.com/blog/best-ai-infographic-generator",
+        "label": "11 Best AI Infographic Generators for 2026"
+      },
+      {
+        "href": "https://venngage.com/blog/best-pitch-decks",
+        "label": "pitch deck"
+      },
+      {
+        "href": "https://venngage.com/blog/canva-alternatives",
+        "label": "roundup on canva alternatives"
+      },
+      {
+        "href": "https://venngage.com/blog/category/ai",
+        "label": "AI & Design"
+      },
+      {
+        "href": "https://venngage.com/blog/category/beginner-guides",
+        "label": "Beginner Guides"
+      },
+      {
+        "href": "https://venngage.com/blog/category/beginner-guides/how-to-guides",
+        "label": "How-To Guides"
+      },
+      {
+        "href": "https://venngage.com/blog/category/beginner-guides/key-concepts",
+        "label": "Key Concepts"
+      },
+      {
+        "href": "https://venngage.com/blog/category/beginner-guides/starter-templates",
+        "label": "Starter Templates"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business",
+        "label": "Business Communication"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business/brochures",
+        "label": "Brochures"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business/meetings",
+        "label": "Meetings"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business/presentations",
+        "label": "Presentations"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business/proposals",
+        "label": "Proposals"
+      },
+      {
+        "href": "https://venngage.com/blog/category/business/reports",
+        "label": "Reports"
+      },
+      {
+        "href": "https://venngage.com/blog/category/case-study",
+        "label": "Case Study"
+      },
+      {
+        "href": "https://venngage.com/blog/category/data-visualization",
+        "label": "Data Visualization"
+      },
+      {
+        "href": "https://venngage.com/blog/category/data-visualization/charts-and-graphs",
+        "label": "Charts and Graphs"
+      },
+      {
+        "href": "https://venngage.com/blog/category/data-visualization/infographics-data-visualization",
+        "label": "Infographics"
+      },
+      {
+        "href": "https://venngage.com/blog/category/education",
+        "label": "Education"
+      },
+      {
+        "href": "https://venngage.com/blog/category/feature-updates",
+        "label": "Feature Updates"
+      },
+      {
+        "href": "https://venngage.com/blog/category/graphs-and-charts",
+        "label": "Graphs and Charts"
+      },
+      {
+        "href": "https://venngage.com/blog/category/healthcare",
+        "label": "Healthcare"
+      },
+      {
+        "href": "https://venngage.com/blog/category/human-resources",
+        "label": "Human Resources"
+      },
+      {
+        "href": "https://venngage.com/blog/category/infographics",
+        "label": "Infographics"
+      },
+      {
+        "href": "https://venngage.com/blog/category/inspiration",
+        "label": "Graphic Design"
+      },
+      {
+        "href": "https://venngage.com/blog/category/marketing",
+        "label": "Marketing"
+      },
+      {
+        "href": "https://venngage.com/blog/category/marketing/branding",
+        "label": "Branding"
+      },
+      {
+        "href": "https://venngage.com/blog/category/marketing/content-marketing",
+        "label": "Content Marketing"
+      },
+      {
+        "href": "https://venngage.com/blog/category/marketing/email-marketing",
+        "label": "Email Marketing"
+      },
+      {
+        "href": "https://venngage.com/blog/category/marketing/social-media",
+        "label": "Social Media"
+      },
+      {
+        "href": "https://venngage.com/blog/category/template-lists",
+        "label": "Popular Templates"
+      },
+      {
+        "href": "https://venngage.com/blog/data-storytelling",
+        "label": "Data storytelling"
+      },
+      {
+        "href": "https://venngage.com/blog/designing-for-diversity",
+        "label": "value and include all types of people"
+      },
+      {
+        "href": "https://venngage.com/blog/email-newsletter-templates",
+        "label": "email newsletter"
+      },
+      {
+        "href": "https://venngage.com/blog/employee-training-and-development",
+        "label": "training employees"
+      },
+      {
+        "href": "https://venngage.com/blog/how-to-choose-fonts",
+        "label": "this blog"
+      },
+      {
+        "href": "https://venngage.com/blog/how-to-create-infographics-using-chatgpt",
+        "label": "How to Create Infographics Using ChatGPT"
+      },
+      {
+        "href": "https://venngage.com/blog/how-to-make-an-infographic-in-5-steps",
+        "label": "creating infographics"
+      },
+      {
+        "href": "https://venngage.com/blog/how-to-summarize",
+        "label": "article on summarization"
+      },
+      {
+        "href": "https://venngage.com/blog/infographic-design",
+        "label": "infographic design guide"
+      },
+      {
+        "href": "https://venngage.com/blog/infographic-elements",
+        "label": "elements"
+      },
+      {
+        "href": "https://venngage.com/blog/infographic-layout",
+        "label": "infographic layout"
+      },
+      {
+        "href": "https://venngage.com/blog/linkedin-infographics",
+        "label": "What the Most Viral LinkedIn Infographics Reveal About Driving Engagement"
+      },
+      {
+        "href": "https://venngage.com/blog/my-brand-kit",
+        "label": "Brand Kit"
+      },
+      {
+        "href": "https://venngage.com/blog/visual-communications-drives-growth",
+        "label": "How Visual Communication Drives Growth: 6 Expert Insights"
+      },
+      {
+        "href": "https://venngage.com/blog/what-is-an-infographic",
+        "label": "examples of good infographics"
+      },
+      {
+        "href": "https://venngage.com/features",
+        "label": "Product"
+      },
+      {
+        "href": "https://venngage.com/features/brochure-maker",
+        "label": "Brochures"
+      },
+      {
+        "href": "https://venngage.com/features/calendar-maker",
+        "label": "Calendar Maker"
+      },
+      {
+        "href": "https://venngage.com/features/checklist-maker",
+        "label": "Checklist Maker"
+      },
+      {
+        "href": "https://venngage.com/features/coupon-maker",
+        "label": "Coupons"
+      },
+      {
+        "href": "https://venngage.com/features/decision-tree-maker",
+        "label": "Decision Tree Maker"
+      },
+      {
+        "href": "https://venngage.com/features/diagram-maker",
+        "label": "Diagrams"
+      },
+      {
+        "href": "https://venngage.com/features/family-tree-maker",
+        "label": "Family Tree Maker"
+      },
+      {
+        "href": "https://venngage.com/features/flowchart-maker",
+        "label": "Flowcharts"
+      },
+      {
+        "href": "https://venngage.com/features/flyer-maker",
+        "label": "Flyers"
+      },
+      {
+        "href": "https://venngage.com/features/genogram-maker",
+        "label": "Genogram Maker"
+      },
+      {
+        "href": "https://venngage.com/features/graph-maker",
+        "label": "Graph Maker"
+      },
+      {
+        "href": "https://venngage.com/features/infographic-maker",
+        "label": "Infographics"
+      },
+      {
+        "href": "https://venngage.com/features/letterhead",
+        "label": "Letterheads"
+      },
+      {
+        "href": "https://venngage.com/features/make-an-ebook",
+        "label": "Ebooks"
+      },
+      {
+        "href": "https://venngage.com/features/mind-map-maker",
+        "label": "Mind Maps"
+      },
+      {
+        "href": "https://venngage.com/features/newsletter-design",
+        "label": "Newsletters"
+      },
+      {
+        "href": "https://venngage.com/features/organizational-chart-maker",
+        "label": "Organizational Charts"
+      },
+      {
+        "href": "https://venngage.com/features/pamphlet-maker",
+        "label": "Pamphlet Maker"
+      },
+      {
+        "href": "https://venngage.com/features/pie-chart-maker",
+        "label": "Pie Chart Maker"
+      },
+      {
+        "href": "https://venngage.com/features/poster-maker",
+        "label": "Posters"
+      },
+      {
+        "href": "https://venngage.com/features/proposal-maker",
+        "label": "Proposals"
+      },
+      {
+        "href": "https://venngage.com/features/report-maker",
+        "label": "Reports"
+      },
+      {
+        "href": "https://venngage.com/features/resume-maker",
+        "label": "CV Maker"
+      },
+      {
+        "href": "https://venngage.com/features/roadmap-maker",
+        "label": "Roadmaps"
+      },
+      {
+        "href": "https://venngage.com/features/spider-diagram",
+        "label": "Spider Diagram Maker"
+      },
+      {
+        "href": "https://venngage.com/features/swot-analysis",
+        "label": "Swot Analysis Maker"
+      },
+      {
+        "href": "https://venngage.com/features/timeline-infographics",
+        "label": "Timeline Infographic Maker"
+      },
+      {
+        "href": "https://venngage.com/features/white-paper-design",
+        "label": "White Papers"
+      },
+      {
+        "href": "https://venngage.com/pricing",
+        "label": "Pricing"
+      },
+      {
+        "href": "https://venngage.com/templates",
+        "label": "Templates"
+      },
+      {
+        "href": "https://venngage.com/templates/infographics",
+        "label": "infographic templates"
+      },
+      {
+        "href": "https://venngage.com/tools",
+        "label": "Accessibility Checker."
+      }
+    ]
+  }
+}
