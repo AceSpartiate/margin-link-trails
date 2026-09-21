@@ -1,0 +1,30 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.61",
+  "checked": "2026-09-03",
+  "trails": {
+    "www.worldbank.org": [
+      {
+        "href": "https://www.worldbank.org/en/programs/icp",
+        "label": "International Comparison Program (ICP)"
+      },
+      {
+        "href": "https://www.worldbank.org/en/programs/icp/brief",
+        "label": "Briefs"
+      },
+      {
+        "href": "https://www.worldbank.org/en/programs/icp/brief/fpn_2024Event",
+        "label": "Food Prices for Nutrition Stakeholder Convening on “Monitoring the Cost and Affordability of a Healthy Diet Within Count"
+      },
+      {
+        "href": "https://www.worldbank.org/en/topic/agriculture/brief/food-security-update",
+        "label": "building food systems that can feed everyone, everywhere, every day"
+      },
+      {
+        "href": "https://www.worldbank.org/ext/en/where-we-work",
+        "label": "Where We Work"
+      }
+    ]
+  }
+}
