@@ -1,4 +1,4 @@
 {
-  "version": "1.55.63",
+  "version": "1.55.64",
   "note": "The Margin build that has shipped. The extension reads only the version field, to tell a teacher whether the copy loaded in their browser is behind this one. Nothing is sent when it is read."
 }
