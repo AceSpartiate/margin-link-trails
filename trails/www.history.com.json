@@ -1,10 +1,190 @@
 {
   "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
   "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
-  "version": "1.44.0",
-  "checked": "2026-08-22",
+  "version": "1.55.61",
+  "checked": "2026-08-29",
   "trails": {
     "www.history.com": [
+      {
+        "href": "https://www.history.com/articles/1904-st-louis-worlds-fair-new-american-foods",
+        "label": "How the 1904 World’s Fair Showcased New American Foods"
+      },
+      {
+        "href": "https://www.history.com/articles/5-daring-slave-escapes",
+        "label": "5 Daring Escapes From Slavery"
+      },
+      {
+        "href": "https://www.history.com/articles/african-american-slavery-marriage-family-separation",
+        "label": "Enslaved Couples Faced Wrenching Separations, or Even Choosing Family Over Freedom"
+      },
+      {
+        "href": "https://www.history.com/articles/beer-ancient-chinese-tomb",
+        "label": "Giant Bottle of Beer Found in Ancient Chinese Tomb"
+      },
+      {
+        "href": "https://www.history.com/articles/christiana-resistance-fugitive-slave-act",
+        "label": "The Christiana Resistance: When a Town Fought Back Against the Fugitive Slave Act"
+      },
+      {
+        "href": "https://www.history.com/articles/christmas-slavery-american-south",
+        "label": "What Was Christmas Like for America’s Enslaved People?"
+      },
+      {
+        "href": "https://www.history.com/articles/coffee-world-war-ii-rations",
+        "label": "How Coffee Fueled US Troops During World War II"
+      },
+      {
+        "href": "https://www.history.com/articles/creole-most-successful-slave-rebellion-1841",
+        "label": "This 1841 Rebellion at Sea Freed More Than 100 Enslaved People"
+      },
+      {
+        "href": "https://www.history.com/articles/eggs-humans-eating",
+        "label": "Humans' Long History of Eating Eggs"
+      },
+      {
+        "href": "https://www.history.com/articles/fortune-cookies-invented-chinese-japanese",
+        "label": "The Surprising Origins of the Fortune Cookie"
+      },
+      {
+        "href": "https://www.history.com/articles/gnostic-bibles-jesus",
+        "label": "What Are the Gnostic Gospels—and What Do They Say About Jesus?"
+      },
+      {
+        "href": "https://www.history.com/articles/hinduism",
+        "label": "Hinduism"
+      },
+      {
+        "href": "https://www.history.com/articles/historic-ice-cream-shops",
+        "label": "7 Historic Ice Cream Parlors in the US"
+      },
+      {
+        "href": "https://www.history.com/articles/historic-papal-visits",
+        "label": "5 Papal Visits That Made History"
+      },
+      {
+        "href": "https://www.history.com/articles/history-of-frozen-food-birdseye",
+        "label": "How the Modern Frozen Food Industry Took Inspiration from Inuits"
+      },
+      {
+        "href": "https://www.history.com/articles/how-old-is-hinduism",
+        "label": "How Old Is Hinduism?"
+      },
+      {
+        "href": "https://www.history.com/articles/iconic-american-candies",
+        "label": "7 Iconic American Candies Through the Decades"
+      },
+      {
+        "href": "https://www.history.com/articles/jack-daniels-enslaved-distiller-nathan-nearest-green",
+        "label": "How an Enslaved Man Helped Jack Daniel Develop His Famous Whiskey"
+      },
+      {
+        "href": "https://www.history.com/articles/jell-o-salad",
+        "label": "How Jell-O Salad Rose to Fame—and Fell From Favor"
+      },
+      {
+        "href": "https://www.history.com/articles/jesus-spoke-language",
+        "label": "What Language Did Jesus Speak?"
+      },
+      {
+        "href": "https://www.history.com/articles/jews-chinese-food-christmas-immigrants-new-york",
+        "label": "What’s Behind the Jewish Tradition of Eating Chinese Food on Christmas?"
+      },
+      {
+        "href": "https://www.history.com/articles/judaism",
+        "label": "Judaism"
+      },
+      {
+        "href": "https://www.history.com/articles/ketchup-surprising-ancient-history",
+        "label": "The Surprisingly Ancient History of Ketchup"
+      },
+      {
+        "href": "https://www.history.com/articles/key-women-bible-eve-mary-magadalene",
+        "label": "6 Key Women in the Bible: From Eve to Mary Magdalene"
+      },
+      {
+        "href": "https://www.history.com/articles/martin-luther-and-the-95-theses",
+        "label": "Martin Luther and the 95 Theses"
+      },
+      {
+        "href": "https://www.history.com/articles/mexico-timeline",
+        "label": "https://www.history.com/articles/mexico-timeline"
+      },
+      {
+        "href": "https://www.history.com/articles/nine-of-the-most-collectible-school-lunch-boxes-1935-to-now",
+        "label": "9 of the Most Collectible School Lunch Boxes, 1935 to Now"
+      },
+      {
+        "href": "https://www.history.com/articles/oldest-mosques-arab-american",
+        "label": "The 7 Oldest Mosques in America"
+      },
+      {
+        "href": "https://www.history.com/articles/reformation",
+        "label": "The Reformation"
+      },
+      {
+        "href": "https://www.history.com/articles/renaissance-influence-reformation-humanism",
+        "label": "How the Renaissance Challenged the Church and Influenced the Reformation"
+      },
+      {
+        "href": "https://www.history.com/articles/resurrection-stories-ancient-cultures",
+        "label": "6 Ancient Resurrection Stories"
+      },
+      {
+        "href": "https://www.history.com/articles/shroud-turin-facts",
+        "label": "The Shroud of Turin: 7 Intriguing Facts"
+      },
+      {
+        "href": "https://www.history.com/articles/slavery",
+        "label": "Slavery in America"
+      },
+      {
+        "href": "https://www.history.com/articles/slavery-negotiations-freedom-concubines-thomas-jefferson-sally-hemings",
+        "label": "How Sally Hemings and Other Enslaved People Secured Precious Pockets of Freedom"
+      },
+      {
+        "href": "https://www.history.com/articles/the-amistad-slave-rebellion-175-years-ago",
+        "label": "How the Amistad Rebellion, and Its Extraordinary Trial, Unfolded"
+      },
+      {
+        "href": "https://www.history.com/articles/transatlantic-slave-trade-facts",
+        "label": "9 Facts About the Transatlantic Slave Trade"
+      },
+      {
+        "href": "https://www.history.com/articles/underground-railroad-harriet-tubman-strategies",
+        "label": "6 Strategies Harriet Tubman and Others Used to Escape Along the Underground Railroad"
+      },
+      {
+        "href": "https://www.history.com/articles/was-jesus-real-historical-evidence",
+        "label": "The Bible Says Jesus Was Real. What Other Proof Exists?"
+      },
+      {
+        "href": "https://www.history.com/articles/where-do-ice-cream-sorbet-frozen-desserts-come-from",
+        "label": "Who Invented Ice Cream?"
+      },
+      {
+        "href": "https://www.history.com/articles/whipped-peter-slavery-photo-scourged-back-real-story-civil-war",
+        "label": "The Shocking Photo of ‘Whipped Peter’ That Made Slavery’s Brutality Impossible to Deny"
+      },
+      {
+        "href": "https://www.history.com/articles/who-were-the-twelve-apostles",
+        "label": "Who Were the 12 Apostles?"
+      },
+      {
+        "href": "https://www.history.com/articles/who-wrote-the-bible",
+        "label": "Who Wrote the Bible?"
+      },
+      {
+        "href": "https://www.history.com/articles/why-do-christians-worship-on-sunday",
+        "label": "Why Do Christians Worship on Sunday?"
+      },
+      {
+        "href": "https://www.history.com/articles/why-the-mormons-settled-in-utah",
+        "label": "Why Latter-Day Saints Church Members Settled in Utah"
+      },
+      {
+        "href": "https://www.history.com/articles/wilmot-proviso-slavery",
+        "label": "The Failed 1846 Amendment That Tried to Contain Slavery"
+      },
       {
         "href": "https://www.history.com/classroom",
         "label": "HISTORY Education"
@@ -127,7 +307,8 @@
       },
       {
         "href": "https://www.history.com/topics/food",
-        "label": "Food"
+        "label": "Food",
+        "words": 955
       },
       {
         "href": "https://www.history.com/topics/great-depression",
@@ -187,7 +368,8 @@
       },
       {
         "href": "https://www.history.com/topics/religion",
-        "label": "Religion"
+        "label": "Religion",
+        "words": 779
       },
       {
         "href": "https://www.history.com/topics/renaissance",
@@ -195,7 +377,8 @@
       },
       {
         "href": "https://www.history.com/topics/slavery",
-        "label": "Slavery"
+        "label": "Slavery",
+        "words": 932
       },
       {
         "href": "https://www.history.com/topics/space-exploration",
