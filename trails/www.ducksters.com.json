@@ -1,0 +1,1624 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.61",
+  "checked": "2026-08-29",
+  "trails": {
+    "www.ducksters.com": [
+      {
+        "href": "https://www.ducksters.com",
+        "label": ""
+      },
+      {
+        "href": "https://www.ducksters.com/biography",
+        "label": "Biography"
+      },
+      {
+        "href": "https://www.ducksters.com/biography/women_leaders/harriet_beecher_stowe.php",
+        "label": "Harriet Beecher Stowe",
+        "words": 986
+      },
+      {
+        "href": "https://www.ducksters.com/biography/women_leaders/harriet_tubman.php",
+        "label": "Harriet Tubman",
+        "words": 1074
+      },
+      {
+        "href": "https://www.ducksters.com/biography/world_leaders",
+        "label": "World Leaders"
+      },
+      {
+        "href": "https://www.ducksters.com/games",
+        "label": "Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/arcade_games.php",
+        "label": "Arcade Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/classic_games.php",
+        "label": "Classic Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/crossword_puzzle/north_america_geography.php",
+        "label": "North America Crossword"
+      },
+      {
+        "href": "https://www.ducksters.com/games/geography_games.php",
+        "label": "Geography Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/math_games.php",
+        "label": "Math Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/north_america_capital_cities_map_game.php",
+        "label": "North America - Capital Cities"
+      },
+      {
+        "href": "https://www.ducksters.com/games/north_america_flags_map_game.php",
+        "label": "North America - Flags"
+      },
+      {
+        "href": "https://www.ducksters.com/games/north_central_america_map_game.php",
+        "label": "North America Map Game"
+      },
+      {
+        "href": "https://www.ducksters.com/games/puzzle_games.php",
+        "label": "Puzzle Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/sports_games.php",
+        "label": "Sports Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/typing_games.php",
+        "label": "Typing Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/united_states_capitals_map_game.php",
+        "label": "US State Capitals"
+      },
+      {
+        "href": "https://www.ducksters.com/games/united_states_flags_map_game.php",
+        "label": "US State Flags"
+      },
+      {
+        "href": "https://www.ducksters.com/games/united_states_map_game.php",
+        "label": "United States Map Game"
+      },
+      {
+        "href": "https://www.ducksters.com/games/word_games.php",
+        "label": "Word Games"
+      },
+      {
+        "href": "https://www.ducksters.com/games/word_search/civil_war.php",
+        "label": "word search"
+      },
+      {
+        "href": "https://www.ducksters.com/games/word_search/harriettubman.php",
+        "label": "Word Search"
+      },
+      {
+        "href": "https://www.ducksters.com/games/word_search/north_america_geography.php",
+        "label": "North America Word Search"
+      },
+      {
+        "href": "https://www.ducksters.com/games/word_search/us_geography.php",
+        "label": "United States Word Search"
+      },
+      {
+        "href": "https://www.ducksters.com/geography",
+        "label": "Geography"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/africa.php",
+        "label": "Africa"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/asia.php",
+        "label": "Asia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/centralamerica.php",
+        "label": "Central America and the Caribbean"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/canada.php",
+        "label": "Canada"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/canada_history_timeline.php",
+        "label": "(Timeline of Canada)"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/mexico.php",
+        "label": "Mexico",
+        "words": 914
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/mexico_history_timeline.php",
+        "label": "(Timeline of Mexico)"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/russia.php",
+        "label": "Russia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/united_states.php",
+        "label": "United States",
+        "words": 1081
+      },
+      {
+        "href": "https://www.ducksters.com/geography/country/united_states_history_timeline.php",
+        "label": "(Timeline of United States)"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/europe.php",
+        "label": "Europe",
+        "words": 785
+      },
+      {
+        "href": "https://www.ducksters.com/geography/middleeast.php",
+        "label": "Middle East"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/northamerica.php",
+        "label": "North America",
+        "words": 750
+      },
+      {
+        "href": "https://www.ducksters.com/geography/oceania.php",
+        "label": "Oceania and Australia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/southamerica.php",
+        "label": "South America"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/southeastasia.php",
+        "label": "Southeast Asia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states",
+        "label": "US State History"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/alabama_history.php",
+        "label": "Alabama"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/alaska_history.php",
+        "label": "Alaska",
+        "words": 966
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/arizona_history.php",
+        "label": "Arizona"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/arkansas_history.php",
+        "label": "Arkansas"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/california_history.php",
+        "label": "California"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/colorado_history.php",
+        "label": "Colorado"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/connecticut_history.php",
+        "label": "Connecticut"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/delaware_history.php",
+        "label": "Delaware"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/florida_history.php",
+        "label": "Florida"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/georgia_history.php",
+        "label": "Georgia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/hawaii_history.php",
+        "label": "Hawaii"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/idaho_history.php",
+        "label": "Idaho"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/illinois_history.php",
+        "label": "Illinois"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/indiana_history.php",
+        "label": "Indiana"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/iowa_history.php",
+        "label": "Iowa"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/kansas_history.php",
+        "label": "Kansas"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/kentucky_history.php",
+        "label": "Kentucky"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/louisiana_history.php",
+        "label": "Louisiana"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/maine_history.php",
+        "label": "Maine"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/maryland_history.php",
+        "label": "Maryland"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/massachusetts_history.php",
+        "label": "Massachusetts"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/michigan_history.php",
+        "label": "Michigan"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/minnesota_history.php",
+        "label": "Minnesota"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/mississippi_history.php",
+        "label": "Mississippi"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/missouri_history.php",
+        "label": "Missouri"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/montana_history.php",
+        "label": "Montana"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/nebraska_history.php",
+        "label": "Nebraska"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/nevada_history.php",
+        "label": "Nevada"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/new_hampshire_history.php",
+        "label": "New Hampshire"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/new_jersey_history.php",
+        "label": "New Jersey"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/new_mexico_history.php",
+        "label": "New Mexico",
+        "words": 1041
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/new_york_history.php",
+        "label": "New York"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/north_carolina_history.php",
+        "label": "North Carolina"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/north_dakota_history.php",
+        "label": "North Dakota"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/ohio_history.php",
+        "label": "Ohio"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/oklahoma_history.php",
+        "label": "Oklahoma"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/oregon_history.php",
+        "label": "Oregon"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/pennsylvania_history.php",
+        "label": "Pennsylvania"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/rhode_island_history.php",
+        "label": "Rhode Island"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/south_carolina_history.php",
+        "label": "South Carolina",
+        "words": 1013
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/south_dakota_history.php",
+        "label": "South Dakota"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/tennessee_history.php",
+        "label": "Tennessee"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/texas_history.php",
+        "label": "Texas"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/us_deserts.php",
+        "label": "US Deserts"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/us_geographical_regions.php",
+        "label": "Regions of the United States"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/us_lakes.php",
+        "label": "US Lakes"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/us_mountain_ranges.php",
+        "label": "US Mountain Ranges"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/us_rivers.php",
+        "label": "US Rivers"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/utah_history.php",
+        "label": "Utah"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/vermont_history.php",
+        "label": "Vermont"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/virginia_history.php",
+        "label": "Virginia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/washington_history.php",
+        "label": "Washington"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/west_virginia_history.php",
+        "label": "West Virginia"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/wisconsin_history.php",
+        "label": "Wisconsin"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/us_states/wyoming_history.php",
+        "label": "Wyoming"
+      },
+      {
+        "href": "https://www.ducksters.com/geography/usgeography.php",
+        "label": "United States",
+        "words": 429
+      },
+      {
+        "href": "https://www.ducksters.com/history",
+        "label": "History"
+      },
+      {
+        "href": "https://www.ducksters.com/history/abraham_lincoln_assassinated.php",
+        "label": "President Lincoln's Assassination"
+      },
+      {
+        "href": "https://www.ducksters.com/history/africa",
+        "label": "Ancient Africa"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution.php",
+        "label": "American Revolution",
+        "words": 916
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/african_americans_revolutionary_war.php",
+        "label": "African Americans"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/alexander_hamilton.php",
+        "label": "Alexander Hamilton"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/american_allies_french.php",
+        "label": "American Allies"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/articles_of_confederation.php",
+        "label": "Articles of Confederation"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/battle_of_cowpens.php",
+        "label": "Battle of Cowpens"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/battle_of_germantown.php",
+        "label": "Battle of Germantown"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/battle_of_guilford_court_house.php",
+        "label": "Battle of Guilford Courthouse"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/battle_of_long_island.php",
+        "label": "Battle of Long Island"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/battles_of_saratoga.php",
+        "label": "The Battle of Saratoga"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/benedict_arnold.php",
+        "label": "Benedict Arnold"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/boston_massacre.php",
+        "label": "Boston Massacre",
+        "words": 1027
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/boston_massacre_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/causes_revolutionary_war.php",
+        "label": "Causes of the American Revolution"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/daily_life_during_the_revolutionary_war.php",
+        "label": "Daily Life"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/fort_ticonderoga.php",
+        "label": "The Capture of Fort Ticonderoga"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/generals_and_military_leaders.php",
+        "label": "Generals and Military Leaders"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/glossary_and_terms.php",
+        "label": "Glossary and Terms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/intolerable_acts.php",
+        "label": "Intolerable Acts"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/life_as_a_revolutionary_war_soldier.php",
+        "label": "Revolutionary War Soldiers"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/marquis_de_lafayette.php",
+        "label": "Marquis de Lafayette"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/martha_washington.php",
+        "label": "Martha Washington"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/molly_pitcher.php",
+        "label": "Molly Pitcher"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/patrick_henry.php",
+        "label": "Patrick Henry"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/patriots_and_loyalists.php",
+        "label": "Patriots and Loyalists"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/samuel_adams.php",
+        "label": "Samuel Adams"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/soldiers_uniforms_and_gear.php",
+        "label": "Revolutionary War Uniforms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/sons_of_liberty.php",
+        "label": "Sons of Liberty"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/spies.php",
+        "label": "Spies"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/the_stamp_act.php",
+        "label": "Stamp Act"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/thomas_paine.php",
+        "label": "Thomas Paine"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/townshend_acts.php",
+        "label": "Townshend Acts"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/valley_forge.php",
+        "label": "Valley Forge"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/weapons_and_battle_tactics.php",
+        "label": "Weapons and Battle Tactics"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution/women_revolutionary_war.php",
+        "label": "Women during the War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/american_revolution_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/ancient_egypt.php",
+        "label": "Ancient Egypt"
+      },
+      {
+        "href": "https://www.ducksters.com/history/ancient_greece.php",
+        "label": "Ancient Greece"
+      },
+      {
+        "href": "https://www.ducksters.com/history/ancient_rome.php",
+        "label": "Ancient Rome"
+      },
+      {
+        "href": "https://www.ducksters.com/history/art",
+        "label": "Artists"
+      },
+      {
+        "href": "https://www.ducksters.com/history/aztec_empire/tenochtitlan.php",
+        "label": "Tenochtitlan"
+      },
+      {
+        "href": "https://www.ducksters.com/history/aztec_empire/timeline_aztec_empire.php",
+        "label": "Aztec"
+      },
+      {
+        "href": "https://www.ducksters.com/history/aztec_maya_inca.php",
+        "label": "Aztec, Maya, Inca"
+      },
+      {
+        "href": "https://www.ducksters.com/history/battle_of_bunker_hill.php",
+        "label": "Battle of Bunker Hill"
+      },
+      {
+        "href": "https://www.ducksters.com/history/battle_of_fort_sumter.php",
+        "label": "Battle of Fort Sumter"
+      },
+      {
+        "href": "https://www.ducksters.com/history/battle_of_gettysburg.php",
+        "label": "Battle of Gettysburg"
+      },
+      {
+        "href": "https://www.ducksters.com/history/battle_of_lexington_and_concord.php",
+        "label": "Battles of Lexington and Concord"
+      },
+      {
+        "href": "https://www.ducksters.com/history/battle_of_yorktown.php",
+        "label": "Battle of Yorktown"
+      },
+      {
+        "href": "https://www.ducksters.com/history/boston_tea_party.php",
+        "label": "Boston Tea Party"
+      },
+      {
+        "href": "https://www.ducksters.com/history/china/ancient_china.php",
+        "label": "Ancient China"
+      },
+      {
+        "href": "https://www.ducksters.com/history/china/silk_road.php",
+        "label": "Silk Road"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights",
+        "label": "Civil Rights Movement"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/african-american_civil_rights_movement.php",
+        "label": "African-American Civil Rights Movement"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/apartheid.php",
+        "label": "Apartheid"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/birmingham_campaign.php",
+        "label": "Birmingham Campaign"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/civil_rights_act_of_1964.php",
+        "label": "Civil Rights Act of 1964"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/civil_rights_glossary_and_terms.php",
+        "label": "Glossary and Terms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/disability_rights_movement.php",
+        "label": "Disability Rights"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/elizabeth_cady_stanton.php",
+        "label": "Elizabeth Cady Stanton"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/frederick_douglass.php",
+        "label": "Frederick Douglass",
+        "words": 1161
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/frederick_douglass_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/history_of_slavery_in_the_united_states.php",
+        "label": "enslaved",
+        "words": 992
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/history_of_slavery_in_the_united_states_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/ida_b_wells.php",
+        "label": "Ida B. Wells"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/jim_crow_laws.php",
+        "label": "Jim Crow Laws"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/little_rock_nine.php",
+        "label": "Little Rock Nine"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/march_on_washington.php",
+        "label": "March on Washington"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/montgomery_bus_boycott.php",
+        "label": "Montgomery Bus Boycott"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/native_american_rights.php",
+        "label": "Native American Rights"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/ruby_bridges.php",
+        "label": "Ruby Bridges"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/sojourner_truth.php",
+        "label": "Sojourner Truth"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/thurgood_marshall.php",
+        "label": "Thurgood Marshall"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/timeline.php",
+        "label": "Civil Rights Timeline"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/timeline_of_african-american_civil_rights.php",
+        "label": "African-American Civil Rights Timeline"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_rights/womens_suffrage.php",
+        "label": "Women's Suffrage"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war.php",
+        "label": "American Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/african_americans.php",
+        "label": "African Americans in the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_antietam.php",
+        "label": "Battle of Antietam"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_chancellorsville.php",
+        "label": "Battle of Chancellorsville"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_fredericksburg.php",
+        "label": "Battle of Fredericksburg"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_ironclads.php",
+        "label": "Battle of the Ironclads"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_shiloh.php",
+        "label": "Battle of Shiloh"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/battle_of_spotsylvania_court_house.php",
+        "label": "Battle of Spotsylvania Court House"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/border_states.php",
+        "label": "Border States"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/causes_of_the_civil_war.php",
+        "label": "Causes of the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/children_during_the_civil_war.php",
+        "label": "Children During the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/civil_war_generals.php",
+        "label": "Civil War Generals"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/dorothea_dix.php",
+        "label": "Dorothea Dix"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/eli_whitney.php",
+        "label": "Eli Whitney"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/first_battle_of_bull_run.php",
+        "label": "First Battle of Bull Run"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/glossary_and_terms.php",
+        "label": "Glossary and Terms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/john_brown_and_the_harpers_ferry_raid.php",
+        "label": "raid on Harpers Ferry"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/life_as_a_soldier_during_the_civil_war.php",
+        "label": "Life as a Civil War Soldier"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/life_during_the_civil_war.php",
+        "label": "Daily Life During the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/mary_todd_lincoln.php",
+        "label": "Mary Todd Lincoln"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/medicine.php",
+        "label": "Medicine and Nursing"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/military_uniforms.php",
+        "label": "Uniforms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/reconstruction.php",
+        "label": "Reconstruction"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/siege_of_vicksburg.php",
+        "label": "Siege of Vicksburg"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/spies.php",
+        "label": "Spies of the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/stonewall_jackson.php",
+        "label": "Stonewall Jackson"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/submarines_h_l_hunley.php",
+        "label": "Submarines and the H.L. Hunley"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/underground_railroad.php",
+        "label": "Underground Railroad"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/union_blockade.php",
+        "label": "Union Blockade"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/weapons_and_technology.php",
+        "label": "Weapons and Technology"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war/women_in_the_civil_war.php",
+        "label": "Women During the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civil_war_battles_of_1861_1862.php",
+        "label": "Civil War Battles of 1861 and 1862"
+      },
+      {
+        "href": "https://www.ducksters.com/history/civilwartimeline.php",
+        "label": "Civil War Timeline for kids"
+      },
+      {
+        "href": "https://www.ducksters.com/history/cold_war/summary.php",
+        "label": "Cold War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/colonial_america",
+        "label": "Colonial America"
+      },
+      {
+        "href": "https://www.ducksters.com/history/colonial_america/french_and_indian_war.php",
+        "label": "French and Indian War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/colonial_america/jamestown_settlement.php",
+        "label": "Jamestown"
+      },
+      {
+        "href": "https://www.ducksters.com/history/colonial_america/king_philips_war.php",
+        "label": "King Philips War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/colonial_america/thirteen_colonies.php",
+        "label": "13 colonies"
+      },
+      {
+        "href": "https://www.ducksters.com/history/confederation_of_the_united_states.php",
+        "label": "The Confederation Secedes"
+      },
+      {
+        "href": "https://www.ducksters.com/history/continental_congress.php",
+        "label": "The Continental Congress"
+      },
+      {
+        "href": "https://www.ducksters.com/history/crossing_the_delaware.php",
+        "label": "Washington Crossing the Delaware"
+      },
+      {
+        "href": "https://www.ducksters.com/history/declaration_of_independence.php",
+        "label": "Declaration of Independence"
+      },
+      {
+        "href": "https://www.ducksters.com/history/emancipation_proclamation.php",
+        "label": "Emancipation Proclamation",
+        "words": 924
+      },
+      {
+        "href": "https://www.ducksters.com/history/emancipation_proclamation_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/facts_about_the_civil_war.php",
+        "label": "Interesting Facts about the Civil War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/famous_native_americans.php",
+        "label": "Famous Native Americans"
+      },
+      {
+        "href": "https://www.ducksters.com/history/french_revolution",
+        "label": "French Revolution"
+      },
+      {
+        "href": "https://www.ducksters.com/history/islam",
+        "label": "Islamic Empire"
+      },
+      {
+        "href": "https://www.ducksters.com/history/mesopotamia/ancient_mesopotamia.php",
+        "label": "Ancient Mesopotamia"
+      },
+      {
+        "href": "https://www.ducksters.com/history/middle_ages/king_john_magna_carta.php",
+        "label": "Magna Carta"
+      },
+      {
+        "href": "https://www.ducksters.com/history/middle_ages_timeline.php",
+        "label": "Middle Ages"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_agriculture_food.php",
+        "label": "Agriculture and Food"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_apache.php",
+        "label": "Apache Tribe"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_art.php",
+        "label": "Native American Art"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_cherokee.php",
+        "label": "Cherokee Tribe"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_clothing.php",
+        "label": "Native American Clothing"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_homes.php",
+        "label": "American Indian homes and Dwellings"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_iroquois.php",
+        "label": "Iroquois Indians"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_navajo.php",
+        "label": "Navajo Nation"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_sioux_nation.php",
+        "label": "Sioux Nation"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_teepee_longhouse_pueblo.php",
+        "label": "Homes: The Teepee, Longhouse, and Pueblo"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_american_tribes_regions.php",
+        "label": "Tribes and Regions"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans.php",
+        "label": "Native Americans for Kids",
+        "words": 851
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/american_indian_religion.php",
+        "label": "Religion",
+        "words": 1015
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/american_indian_religion_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/battle_of_little_big_horn.php",
+        "label": "Battle of Little Bighorn"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/blackfoot_nation.php",
+        "label": "Blackfoot"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/cheyenne_tribe.php",
+        "label": "Cheyenne Tribe"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/chickasaw_tribe.php",
+        "label": "Chickasaw"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/chief_joseph.php",
+        "label": "Chief Joseph"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/crazy_horse.php",
+        "label": "Crazy Horse"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/cree_tribe.php",
+        "label": "Cree"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/entertainment.php",
+        "label": "Entertainment"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/geronimo.php",
+        "label": "Geronimo"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/glossary_and_terms.php",
+        "label": "Glossary and Terms"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/indian_reservations.php",
+        "label": "Indian Reservations"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/inuit_peoples.php",
+        "label": "Inuit"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/life_as_a_native_american_child.php",
+        "label": "Life as a Child"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/maria_tallchief.php",
+        "label": "Maria Tallchief"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/mythology_legends.php",
+        "label": "Mythology and Legends"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/nez_perce.php",
+        "label": "Nez Perce"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/osage_nation.php",
+        "label": "Osage Nation"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/pueblo_tribe.php",
+        "label": "Pueblo"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/roles_of_women_and_men.php",
+        "label": "Roles of Women and Men"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/seminole_tribe.php",
+        "label": "Seminole"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/sequoyah.php",
+        "label": "Sequoyah"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/sitting_bull.php",
+        "label": "Sitting Bull"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/social_structure.php",
+        "label": "Social Structure"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/squanto.php",
+        "label": "Squanto"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/tecumseh.php",
+        "label": "Tecumseh"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/timeline.php",
+        "label": "Timeline of Native American History"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/trail_of_tears.php",
+        "label": "Trail of Tears"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans/wounded_knee_massacre.php",
+        "label": "Wounded Knee Massacre"
+      },
+      {
+        "href": "https://www.ducksters.com/history/native_americans_questions.php",
+        "label": "quiz"
+      },
+      {
+        "href": "https://www.ducksters.com/history/renaissance.php",
+        "label": "Renaissance"
+      },
+      {
+        "href": "https://www.ducksters.com/history/revolutionarywartimeline.php",
+        "label": "Timeline of the American Revolution"
+      },
+      {
+        "href": "https://www.ducksters.com/history/robert_e_lee_surrenders.php",
+        "label": "Robert E. Lee Surrenders"
+      },
+      {
+        "href": "https://www.ducksters.com/history/shermans_march_to_the_sea.php",
+        "label": "Sherman's March to the Sea"
+      },
+      {
+        "href": "https://www.ducksters.com/history/treaty_of_paris.php",
+        "label": "The Treaty of Paris"
+      },
+      {
+        "href": "https://www.ducksters.com/history/united_states_flag.php",
+        "label": "The United States Flag"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_1800s",
+        "label": "Pre-1900s"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_1800s/industrial_revolution.php",
+        "label": "Industrial Revolution"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_1800s/statue_of_liberty.php",
+        "label": "Statue of Liberty"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_1900s",
+        "label": "1900 to Present"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_1900s/great_depression.php",
+        "label": "The Great Depression"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_bill_of_rights.php",
+        "label": "Bill of Rights"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_constitution.php",
+        "label": "United States Constitution"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_constitution_amendments.php",
+        "label": "Thirteenth Amendment"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_government.php",
+        "label": "US Government"
+      },
+      {
+        "href": "https://www.ducksters.com/history/us_government/thirteenth_amendment.php",
+        "label": "Thirteenth Amendment"
+      },
+      {
+        "href": "https://www.ducksters.com/history/westward_expansion",
+        "label": "Westward Expansion"
+      },
+      {
+        "href": "https://www.ducksters.com/history/westward_expansion/california_gold_rush.php",
+        "label": "Gold Rush"
+      },
+      {
+        "href": "https://www.ducksters.com/history/westward_expansion/famous_gunfighters.php",
+        "label": "outlaws"
+      },
+      {
+        "href": "https://www.ducksters.com/history/westward_expansion/mexican-american_war.php",
+        "label": "Mexican-American War"
+      },
+      {
+        "href": "https://www.ducksters.com/history/world_war_i",
+        "label": "World War 1"
+      },
+      {
+        "href": "https://www.ducksters.com/history/world_war_ii",
+        "label": "World War II"
+      },
+      {
+        "href": "https://www.ducksters.com/history/world_war_ii/ww2_atomic_bomb.php",
+        "label": "atomic bomb"
+      },
+      {
+        "href": "https://www.ducksters.com/holidays/kids_calendar.php",
+        "label": "Holidays"
+      },
+      {
+        "href": "https://www.ducksters.com/jokes",
+        "label": "Jokes for Kids"
+      },
+      {
+        "href": "https://www.ducksters.com/kidsmath",
+        "label": "Math"
+      },
+      {
+        "href": "https://www.ducksters.com/money",
+        "label": "Money and Finance"
+      },
+      {
+        "href": "https://www.ducksters.com/movies.php",
+        "label": "Movies"
+      },
+      {
+        "href": "https://www.ducksters.com/moviesforkids/list_of_animal_movies_for_kids.php",
+        "label": "list of animal movies for kids"
+      },
+      {
+        "href": "https://www.ducksters.com/music.php",
+        "label": "Music"
+      },
+      {
+        "href": "https://www.ducksters.com/science",
+        "label": "Science"
+      },
+      {
+        "href": "https://www.ducksters.com/science/acids_and_bases.php",
+        "label": "Acids and Bases"
+      },
+      {
+        "href": "https://www.ducksters.com/science/biology",
+        "label": "Biology"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry",
+        "label": "Chemistry for Kids"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/alkali_metals.php",
+        "label": "Alkali Metals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/alkaline_earth_metals.php",
+        "label": "Alkaline Earth Metals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/aluminum.php",
+        "label": "Aluminum"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/argon.php",
+        "label": "Argon"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/arsenic.php",
+        "label": "Arsenic"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/beryllium.php",
+        "label": "Beryllium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/boron.php",
+        "label": "Boron"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/calcium.php",
+        "label": "Calcium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/carbon.php",
+        "label": "Carbon"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chemical_bonding.php",
+        "label": "Chemical Bonding"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chemical_mixtures.php",
+        "label": "Mixtures"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chemical_reactions.php",
+        "label": "Chemical Reactions"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chemistry_lab_equipment.php",
+        "label": "Chemistry Lab Equipment"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chlorine.php",
+        "label": "Chlorine"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/chromium.php",
+        "label": "Chromium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/cobalt.php",
+        "label": "Cobalt"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/copper2.php",
+        "label": "Copper"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/famous_chemists.php",
+        "label": "Famous Chemists"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/fluorine.php",
+        "label": "Fluorine"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/gallium.php",
+        "label": "Gallium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/germanium.php",
+        "label": "Germanium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/glossary_and_terms.php",
+        "label": "Glossary and Terms"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/gold.php",
+        "label": "gold",
+        "words": 920
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/halogens.php",
+        "label": "Halogens"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/helium.php",
+        "label": "Helium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/hydrogen.php",
+        "label": "Hydrogen"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/iodine.php",
+        "label": "Iodine"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/iron.php",
+        "label": "Iron"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/isotopes.php",
+        "label": "Isotopes"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/lanthanides_and_actinides.php",
+        "label": "Lanthanides and Actinides"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/lead.php",
+        "label": "Lead"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/lithium.php",
+        "label": "Lithium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/magnesium.php",
+        "label": "Magnesium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/manganese.php",
+        "label": "Manganese"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/mercury.php",
+        "label": "Mercury--->"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/metalloids.php",
+        "label": "Metalloids"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/naming_chemical_compounds.php",
+        "label": "Naming Compounds"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/neon.php",
+        "label": "Neon"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/nickel.php",
+        "label": "Nickel"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/nitrogen.php",
+        "label": "Nitrogen"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/noble_gases.php",
+        "label": "Noble Gases"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/nonmetals.php",
+        "label": "Nonmetals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/organic_chemistry.php",
+        "label": "Organic Chemistry"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/oxygen.php",
+        "label": "Oxygen"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/phosphorus.php",
+        "label": "Phosphorus"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/platinum.php",
+        "label": "<---Platinum"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/plutonium.php",
+        "label": "Plutonium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/post-transition_metals.php",
+        "label": "Post-transition Metals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/potassium.php",
+        "label": "Potassium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/radiation_and_radioactivity.php",
+        "label": "Radioactivity and Radiation"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/radium.php",
+        "label": "Radium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/scandium.php",
+        "label": "Scandium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/separating_mixtures.php",
+        "label": "Separating Mixtures"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/silicon.php",
+        "label": "Silicon"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/silver.php",
+        "label": "Silver"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/soaps_and_salts.php",
+        "label": "Salts and Soaps"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/sodium.php",
+        "label": "Sodium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/solutions_and_dissolving.php",
+        "label": "Solutions"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/sulfur.php",
+        "label": "Sulfur"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/tin.php",
+        "label": "Tin"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/titanium.php",
+        "label": "Titanium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/transition_metals.php",
+        "label": "Transition Metals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/uranium.php",
+        "label": "Uranium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/vanadium.php",
+        "label": "Vanadium"
+      },
+      {
+        "href": "https://www.ducksters.com/science/chemistry/zinc.php",
+        "label": "Zinc"
+      },
+      {
+        "href": "https://www.ducksters.com/science/crystals.php",
+        "label": "Crystals"
+      },
+      {
+        "href": "https://www.ducksters.com/science/earth_science",
+        "label": "Earth Science"
+      },
+      {
+        "href": "https://www.ducksters.com/science/earthquakes.php",
+        "label": "earthquake"
+      },
+      {
+        "href": "https://www.ducksters.com/science/elements.php",
+        "label": "Elements"
+      },
+      {
+        "href": "https://www.ducksters.com/science/melting_and_boiling.php",
+        "label": "Melting and Boiling"
+      },
+      {
+        "href": "https://www.ducksters.com/science/metals.php",
+        "label": "metal"
+      },
+      {
+        "href": "https://www.ducksters.com/science/molecules.php",
+        "label": "Molecules"
+      },
+      {
+        "href": "https://www.ducksters.com/science/periodic_table.php",
+        "label": "Periodic Table"
+      },
+      {
+        "href": "https://www.ducksters.com/science/physics",
+        "label": "Physics"
+      },
+      {
+        "href": "https://www.ducksters.com/science/scientific_classification.php",
+        "label": "Classification"
+      },
+      {
+        "href": "https://www.ducksters.com/science/solids_liquids_gases.php",
+        "label": "Solids, Liquids, Gases"
+      },
+      {
+        "href": "https://www.ducksters.com/science/the_atom.php",
+        "label": "Atom"
+      },
+      {
+        "href": "https://www.ducksters.com/science/water.php",
+        "label": "Water"
+      },
+      {
+        "href": "https://www.ducksters.com/sports.php",
+        "label": "Sports"
+      },
+      {
+        "href": "https://www.ducksters.com/sports/jackie_robinson.php",
+        "label": "Jackie Robinson"
+      },
+      {
+        "href": "https://www.ducksters.com/sports/jesse_owens.php",
+        "label": "Jesse Owens"
+      },
+      {
+        "href": "https://www.ducksters.com/sports/michael_jordan.php",
+        "label": "Michael Jordan"
+      },
+      {
+        "href": "https://www.ducksters.com/study.php",
+        "label": "Homework"
+      },
+      {
+        "href": "https://www.ducksters.com/termsofuse.php",
+        "label": "Terms of Use."
+      },
+      {
+        "href": "https://www.ducksters.com/videos/arts-crafts",
+        "label": "Arts and Crafts"
+      },
+      {
+        "href": "https://www.ducksters.com/videos/christopher-columbus.php",
+        "label": "video about Christopher Columbus"
+      },
+      {
+        "href": "https://www.ducksters.com/videos/harriet-tubman.php",
+        "label": "video about Harriet Tubman"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/american_revolution.php",
+        "label": "Works Cited"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/civil_rights.php",
+        "label": "Works Cited"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/civil_war.php",
+        "label": "Works Cited"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/explorers.php",
+        "label": "Works Cited"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/native_americans.php",
+        "label": "Works Cited"
+      },
+      {
+        "href": "https://www.ducksters.com/works_cited/state_history.php",
+        "label": "Works Cited"
+      }
+    ]
+  }
+}

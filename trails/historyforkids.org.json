@@ -1,0 +1,14 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.61",
+  "checked": "2026-08-29",
+  "trails": {
+    "historyforkids.org": [
+      {
+        "href": "https://historyforkids.org",
+        "label": "History for Kids"
+      }
+    ]
+  }
+}

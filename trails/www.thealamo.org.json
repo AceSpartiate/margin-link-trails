@@ -1,0 +1,162 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.61",
+  "checked": "2026-09-21",
+  "trails": {
+    "www.thealamo.org": [
+      {
+        "href": "http://www.thealamo.org",
+        "label": ""
+      },
+      {
+        "href": "http://www.thealamo.org/alamo-trust",
+        "label": "Alamo Trust"
+      },
+      {
+        "href": "http://www.thealamo.org/alamo-trust/governance",
+        "label": "Governance"
+      },
+      {
+        "href": "http://www.thealamo.org/alamo-trust/join-the-team",
+        "label": "Join the Team"
+      },
+      {
+        "href": "http://www.thealamo.org/alamo-trust/public-meetings",
+        "label": "Public Meetings"
+      },
+      {
+        "href": "http://www.thealamo.org/ball",
+        "label": "The Alamo Preservation Ball"
+      },
+      {
+        "href": "http://www.thealamo.org/church-virtual-tour",
+        "label": "Alamo Church Virtual Tour"
+      },
+      {
+        "href": "http://www.thealamo.org/live-cam",
+        "label": "Alamo Plaza Live Cam"
+      },
+      {
+        "href": "http://www.thealamo.org/membership",
+        "label": "Membership"
+      },
+      {
+        "href": "http://www.thealamo.org/podcast",
+        "label": "Alamo Podcast"
+      },
+      {
+        "href": "http://www.thealamo.org/remember",
+        "label": "Remember"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/age-of-exploration",
+        "label": "Age of Exploration"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/battle-and-revolution",
+        "label": "Battle and Revolution"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/battle-and-revolution/defenders",
+        "label": "Defenders"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/battle-and-revolution/defenders/alamo-descendants",
+        "label": "Alamo Descendants"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/birth-of-a-fortress",
+        "label": "Birth of a Fortress"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/commemoration",
+        "label": "Commemoration"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/commerce-and-preservation",
+        "label": "Commerce and Preservation"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/military-occupation",
+        "label": "Military Occupation"
+      },
+      {
+        "href": "http://www.thealamo.org/remember/mission-valero",
+        "label": "Mission Valero"
+      },
+      {
+        "href": "http://www.thealamo.org/stage",
+        "label": "Performance Requests"
+      },
+      {
+        "href": "http://www.thealamo.org/support/alamo-plan",
+        "label": "Alamo Plan"
+      },
+      {
+        "href": "http://www.thealamo.org/support/preservation",
+        "label": "Preservation"
+      },
+      {
+        "href": "http://www.thealamo.org/support/volunteer-at-the-alamo",
+        "label": "Volunteer"
+      },
+      {
+        "href": "http://www.thealamo.org/teach",
+        "label": "Teach"
+      },
+      {
+        "href": "http://www.thealamo.org/teach/distance-learning-for-schools",
+        "label": "Distance Learning for Schools"
+      },
+      {
+        "href": "http://www.thealamo.org/teach/field-trips",
+        "label": "Field Trips"
+      },
+      {
+        "href": "http://www.thealamo.org/teach/lesson-plans-and-guides",
+        "label": "Classroom Resources"
+      },
+      {
+        "href": "http://www.thealamo.org/teach/workshops-for-credit",
+        "label": "Professional Development"
+      },
+      {
+        "href": "http://www.thealamo.org/visit",
+        "label": "Visit"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/calendar/upcoming-events",
+        "label": "Upcoming Events"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/military-ceremonies-and-staff-rides",
+        "label": "Military Ceremonies"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/san-antonio-citypass",
+        "label": "Save with CityPASS®"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/tours-and-experiences",
+        "label": "Tours and Experiences"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/visiting-tips",
+        "label": "Visiting Tips"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/visiting-tips/site-rules",
+        "label": "Rules of Reverence"
+      },
+      {
+        "href": "http://www.thealamo.org/visit/whats-at-the-alamo",
+        "label": "What's at the Alamo"
+      },
+      {
+        "href": "https://www.thealamo.org/plan-your-visit",
+        "label": "Tickets"
+      }
+    ]
+  }
+}
