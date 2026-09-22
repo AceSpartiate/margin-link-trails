@@ -1,0 +1,167 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.57",
+  "checked": "2026-09-04",
+  "trails": {
+    "texasourtexas.texaspbs.org": [
+      {
+        "href": "https://texasourtexas.texaspbs.org/book-club",
+        "label": "TEXAS HISTORY BOOKS"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/feature",
+        "label": "Teachers"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/learn-more",
+        "label": "Learn More"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions",
+        "label": "REGIONS"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/amarillo-kacv",
+        "label": "KACV – AMARILLO"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/austin-pbs",
+        "label": "KLRU – AUSTIN"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/college-station-kamu",
+        "label": "KAMU – COLLEGE STATION"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/corpus-christi-kedt",
+        "label": "KEDT – CORPUS CHRISTI"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/dallas-fort-worth-kera",
+        "label": "KERA – Dallas / Fort Worth"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/el-paso-kcos",
+        "label": "KCOS – El Paso"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/harlingen-kmbh",
+        "label": "KMBH – Rio Grande Valley"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/houston-kuht",
+        "label": "KUHT – Houston"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/lubbock-kttz",
+        "label": "KTTZ – Lubbock"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/midland-odessa-kpbt",
+        "label": "BasinPBS – Midland / Odessa"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/regions/san-antonio-klrn",
+        "label": "KLRN – San Antonio"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas",
+        "label": "Eras"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/age-of-contact",
+        "label": "Age of Contact"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/age-of-oil",
+        "label": "Age of Oil, Prohibition and Women’s Suffrage"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/civil-rights-conservatism",
+        "label": "Civil Rights and Conservatism"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/civil-war-reconstruction",
+        "label": "Civil War and Reconstruction"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/contemporary-texas",
+        "label": "Contemporary Texas"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/cotton-cattle-railroads",
+        "label": "Cotton, Cattle, and Railroads"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/early-statehood",
+        "label": "Early Statehood"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/great-depression-ww2",
+        "label": "The Great Depression and World War II"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/mexican-rule",
+        "label": "Mexican Rule"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/revolution-and-republic",
+        "label": "Revolution and Republic"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/spanish-colonial",
+        "label": "Spanish Colonial"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/the-eras-of-texas/the-land-and-its-early-people",
+        "label": "The Land and Its Early People"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/african-american-texans",
+        "label": "AFRICAN-AMERICAN TEXANS"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/immigration",
+        "label": "IMMIGRATION",
+        "words": 478
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/immigration/german-immigration",
+        "label": "German Immigration"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/immigration/japanese-war-brides",
+        "label": "Japanese War Brides"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/kennedy-assassination",
+        "label": "KENNEDY ASSASSINATION"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-children",
+        "label": "TEXAS CHILDREN"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-latinos",
+        "label": "TEXAS LATINOS"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-presidents",
+        "label": "TEXAS PRESIDENTS"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-ranching",
+        "label": "TEXAS RANCHING"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-women",
+        "label": "TEXAS WOMEN"
+      },
+      {
+        "href": "https://texasourtexas.texaspbs.org/topics/texas-women/women-texas-revolution",
+        "label": "WOMEN & THE TEXAS REVOLUTION"
+      }
+    ]
+  }
+}
