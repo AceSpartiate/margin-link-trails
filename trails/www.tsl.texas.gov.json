@@ -1,0 +1,86 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.65",
+  "checked": "2026-09-22",
+  "trails": {
+    "www.tsl.texas.gov": [
+      {
+        "href": "https://www.tsl.texas.gov",
+        "label": ""
+      },
+      {
+        "href": "https://www.tsl.texas.gov/aggregator",
+        "label": ""
+      },
+      {
+        "href": "https://www.tsl.texas.gov/allcontracts",
+        "label": "Contracts"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/arc",
+        "label": "Archives and Reference"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/budget",
+        "label": "Budget Information"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/business",
+        "label": "Purchasing and Bids"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/customer/compact",
+        "label": "Compact with Texans"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/ldn",
+        "label": "Services for Libraries"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/planning-audits-reports",
+        "label": "Planning, Audits and Reports"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/publicinformationrequest",
+        "label": "Open Records Requests"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/slrm",
+        "label": "Records Management"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/socialmedia",
+        "label": ""
+      },
+      {
+        "href": "https://www.tsl.texas.gov/tbp",
+        "label": "Talking Book Program"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/texshare/libsearch",
+        "label": "Find a Library"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/treasures",
+        "label": "Texas Treasures Online Exhibit of Historical Documents and Artifacts - Texas State Library"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/treasures/republic/declare-01.html",
+        "label": "Back to \"Texas Declaration of Independence\""
+      },
+      {
+        "href": "https://www.tsl.texas.gov/tslac-statutesandrules",
+        "label": "Governance"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/visit",
+        "label": "Visit Us"
+      },
+      {
+        "href": "https://www.tsl.texas.gov/webpolicies",
+        "label": "Website Policies"
+      }
+    ]
+  }
+}

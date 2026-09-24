@@ -1,0 +1,130 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.65",
+  "checked": "2026-09-24",
+  "trails": {
+    "www.c-span.org": [
+      {
+        "href": "https://www.c-span.org",
+        "label": "o"
+      },
+      {
+        "href": "https://www.c-span.org/MyC-SPAN",
+        "label": "MyC-SPAN"
+      },
+      {
+        "href": "https://www.c-span.org/MyC-SPAN/login",
+        "label": "MyC-SPAN Login"
+      },
+      {
+        "href": "https://www.c-span.org/MyC-SPAN/logout",
+        "label": "Logout"
+      },
+      {
+        "href": "https://www.c-span.org/abc",
+        "label": "America's Book Club Sundays at 6pm and 9pm"
+      },
+      {
+        "href": "https://www.c-span.org/ahtv",
+        "label": "American History TV"
+      },
+      {
+        "href": "https://www.c-span.org/america250",
+        "label": "America 250"
+      },
+      {
+        "href": "https://www.c-span.org/bookTv",
+        "label": "Book TV Sundays on C-SPAN2"
+      },
+      {
+        "href": "https://www.c-span.org/booksthatshapedamerica",
+        "label": "Books That Shaped America"
+      },
+      {
+        "href": "https://www.c-span.org/booktv",
+        "label": "Book TV"
+      },
+      {
+        "href": "https://www.c-span.org/c-span-now",
+        "label": "C-SPAN Now App"
+      },
+      {
+        "href": "https://www.c-span.org/c-span-select",
+        "label": "C-SPAN Select App"
+      },
+      {
+        "href": "https://www.c-span.org/ceasefire",
+        "label": "Ceasefire Fall 2025"
+      },
+      {
+        "href": "https://www.c-span.org/checkout",
+        "label": "Checkout"
+      },
+      {
+        "href": "https://www.c-span.org/classroom",
+        "label": "C-SPAN Classroom"
+      },
+      {
+        "href": "https://www.c-span.org/congress",
+        "label": "Congress"
+      },
+      {
+        "href": "https://www.c-span.org/connect",
+        "label": "Newsletters"
+      },
+      {
+        "href": "https://www.c-span.org/executive-branch",
+        "label": "Executive"
+      },
+      {
+        "href": "https://www.c-span.org/networks",
+        "label": "TV"
+      },
+      {
+        "href": "https://www.c-span.org/podcasts",
+        "label": "PODCASTS"
+      },
+      {
+        "href": "https://www.c-span.org/quickguide",
+        "label": "Quick Guide"
+      },
+      {
+        "href": "https://www.c-span.org/series/browse",
+        "label": "Series A-Z Explore C-SPAN Series"
+      },
+      {
+        "href": "https://www.c-span.org/supremeCourt",
+        "label": "Supreme Court"
+      },
+      {
+        "href": "https://www.c-span.org/video/:::canonicalUrlPath:::",
+        "label": ":::title::: :::durationStr:::"
+      },
+      {
+        "href": "https://www.c-span.org/video/:::link:::",
+        "label": ":::title:::"
+      },
+      {
+        "href": "https://www.c-span.org/video/:::linkUrl:::",
+        "label": ":::linkTitle:::"
+      },
+      {
+        "href": "https://www.c-span.org/video/:::linkurl:::",
+        "label": ""
+      },
+      {
+        "href": "https://www.c-span.org/video/:::path:::",
+        "label": ":::title:::"
+      },
+      {
+        "href": "https://www.c-span.org/video/:::storeUrl:::",
+        "label": ":::storeDispName:::"
+      },
+      {
+        "href": "https://www.c-span.org/worldLegislatures",
+        "label": "World Legislatures"
+      }
+    ]
+  }
+}
