@@ -1,0 +1,236 @@
+{
+  "v": 1,
+  "chars": [
+    {
+      "id": "zero-width",
+      "w": 1,
+      "max": 2,
+      "cps": [
+        8203,
+        8204,
+        8288,
+        6158
+      ]
+    },
+    {
+      "id": "byte-order-mark",
+      "w": 1,
+      "max": 2,
+      "cps": [
+        65279
+      ]
+    },
+    {
+      "id": "narrow-nbsp",
+      "w": 1,
+      "max": 2,
+      "cps": [
+        8239
+      ]
+    },
+    {
+      "id": "direction-marks",
+      "w": 1,
+      "max": 2,
+      "cps": [
+        8206,
+        8207,
+        8234,
+        8235,
+        8236,
+        8237,
+        8238,
+        8294,
+        8295,
+        8296,
+        8297
+      ]
+    },
+    {
+      "id": "invisible-operators",
+      "w": 1,
+      "max": 2,
+      "cps": [
+        8289,
+        8290,
+        8291,
+        8292
+      ]
+    },
+    {
+      "id": "tag-characters",
+      "w": 2,
+      "max": 2,
+      "from": 917504,
+      "to": 917631
+    },
+    {
+      "id": "curly-quotes",
+      "w": 0,
+      "max": 0,
+      "cps": [
+        8216,
+        8217,
+        8220,
+        8221
+      ]
+    },
+    {
+      "id": "long-dash",
+      "w": 0,
+      "max": 0,
+      "cps": [
+        8212
+      ]
+    },
+    {
+      "id": "ellipsis-char",
+      "w": 0,
+      "max": 0,
+      "cps": [
+        8230
+      ]
+    },
+    {
+      "id": "soft-hyphen",
+      "w": 0,
+      "max": 0,
+      "cps": [
+        173
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "id": "google-ai-overview",
+      "w": 2,
+      "text": "AI Overview"
+    },
+    {
+      "id": "google-ai-overview",
+      "w": 2,
+      "text": "AI responses may include mistakes"
+    },
+    {
+      "id": "google-ai-overview",
+      "w": 2,
+      "text": "Generative AI is experimental"
+    },
+    {
+      "id": "google-ai-mode",
+      "w": 2,
+      "text": "Dive deeper in AI Mode"
+    },
+    {
+      "id": "google-ai-mode",
+      "w": 2,
+      "text": "AI Mode"
+    },
+    {
+      "id": "chatgpt-window",
+      "w": 2,
+      "text": "ChatGPT said:"
+    },
+    {
+      "id": "chatgpt-window",
+      "w": 2,
+      "text": "ChatGPT can make mistakes"
+    },
+    {
+      "id": "chatgpt-link",
+      "w": 2,
+      "text": "utm_source=chatgpt.com"
+    },
+    {
+      "id": "chatgpt-citation",
+      "w": 2,
+      "text": "citeturn"
+    },
+    {
+      "id": "chatgpt-citation",
+      "w": 2,
+      "text": "oai_citation"
+    },
+    {
+      "id": "chatgpt-citation",
+      "w": 2,
+      "text": "\u2020source"
+    },
+    {
+      "id": "gemini-window",
+      "w": 2,
+      "text": "Gemini can make mistakes"
+    },
+    {
+      "id": "gemini-window",
+      "w": 2,
+      "text": "Show drafts"
+    },
+    {
+      "id": "claude-window",
+      "w": 2,
+      "text": "Claude can make mistakes"
+    },
+    {
+      "id": "copilot-window",
+      "w": 2,
+      "text": "AI-generated content may be incorrect"
+    },
+    {
+      "id": "meta-ai-window",
+      "w": 1,
+      "text": "Meta AI"
+    },
+    {
+      "id": "ai-self-reference",
+      "w": 2,
+      "text": "As an AI language model"
+    },
+    {
+      "id": "ai-self-reference",
+      "w": 2,
+      "text": "as an AI language model"
+    },
+    {
+      "id": "ai-self-reference",
+      "w": 1,
+      "text": "I am an AI"
+    },
+    {
+      "id": "html-from-ai",
+      "w": 2,
+      "text": "data-start=\""
+    },
+    {
+      "id": "html-from-ai",
+      "w": 2,
+      "text": "data-end=\""
+    },
+    {
+      "id": "markdown-heading",
+      "w": 1,
+      "text": "\n## "
+    },
+    {
+      "id": "markdown-heading",
+      "w": 1,
+      "text": "\n### "
+    },
+    {
+      "id": "markdown-bold",
+      "w": 1,
+      "text": "**"
+    },
+    {
+      "id": "html-heading",
+      "w": 1,
+      "text": "<h2"
+    },
+    {
+      "id": "html-heading",
+      "w": 1,
+      "text": "<h3"
+    }
+  ],
+  "note": "Fingerprints a paste out of an AI tool leaves in student writing. Read once a day by Margin (extension/aidetect.js); only v, chars and phrases are read, and a list that fails its checks is ignored whole."
+}
