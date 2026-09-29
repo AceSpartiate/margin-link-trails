@@ -1,0 +1,439 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.70",
+  "checked": "2026-09-29",
+  "trails": {
+    "www.revolutionary-war.net": [
+      {
+        "href": "https://www.revolutionary-war.net",
+        "label": "Revolutionary War"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/aaron-burr",
+        "label": "Aaron Burr"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/abraham-clark",
+        "label": "Abraham Clark"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/arthur-middleton",
+        "label": "Arthur Middleton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/articles-of-confederation-transcript",
+        "label": "Articles of Confederation Transcript"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-brandywine",
+        "label": "Battle of Brandywine"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-fort-washington",
+        "label": "Battle of Fort Washington"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-monmouth",
+        "label": "Battle of Monmouth"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-moores-creek-bridge",
+        "label": "Battle of Moore’s Creek Bridge"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-quebec",
+        "label": "Battle of Quebec"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battle-of-sullivans-island",
+        "label": "Battle of Sullivan’s Island"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/battles-of-the-revolutionary-war",
+        "label": "Battles",
+        "words": 667
+      },
+      {
+        "href": "https://www.revolutionary-war.net/bill-of-rights-amendments",
+        "label": "Bill of Rights Amendments to the US Constitution"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/bill-of-rights-unratified-amendments",
+        "label": "Bill of Rights: Unratified Amendments to the United States Constitution"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/bitnami/index.html",
+        "label": ""
+      },
+      {
+        "href": "https://www.revolutionary-war.net/caesar-rodney",
+        "label": "Caesar Rodney"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/carter-braxton",
+        "label": "Carter Braxton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/causes-of-the-american-revolution",
+        "label": "Causes"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/charles-carroll",
+        "label": "Charles Carroll of Carrollton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/colonial-history",
+        "label": "Colonial History"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/conway-cabal",
+        "label": "the Conway Cabal"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/cookies-policy",
+        "label": "Cookies Policy"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/declaration-of-independence",
+        "label": "Declaration of Independence"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/edward-rutledge",
+        "label": "Edward Rutledge"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/famous-americans-of-the-revolutionary-war",
+        "label": "Famous Americans"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/famous-documents",
+        "label": "Famous American History Documents"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/fort-ticonderoga-revolutionary-war-and-the-battles-of-ticonderoga",
+        "label": "First Battle of Ticonderoga"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/francis-hopkinson",
+        "label": "Francis Hopkinson"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/francis-lewis",
+        "label": "Francis Lewis"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/francis-lightfoot-lee",
+        "label": "Francis Lightfoot Lee"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/francis-salvador",
+        "label": "Francis Salvador"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/general-horatio-gates",
+        "label": "General Horatio Gates"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/general-john-burgoyne",
+        "label": "General Burgoyne"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/general-john-sullivan",
+        "label": "General John Sullivan"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/general-william-howe",
+        "label": "General Howe"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/george-clymer",
+        "label": "George Clymer"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/george-ross",
+        "label": "George Ross"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/george-walton",
+        "label": "George Walton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/george-washington",
+        "label": "General Washington"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/george-wythe",
+        "label": "George Wythe"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/james-smith",
+        "label": "James Smith"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/john-hancock",
+        "label": "John Hancock"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/john-morton",
+        "label": "John Morton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/john-penn",
+        "label": "John Penn"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/john-witherspoon",
+        "label": "John Witherspoon"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/joseph-hewes",
+        "label": "Joseph Hewes"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/josiah-footlett",
+        "label": "Josiah footlett"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/king-george-iii",
+        "label": "King George III"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/lewis-morris",
+        "label": "Lewis Morris"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/lyman-hall",
+        "label": "Lyman Hall"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/matthew-thornton",
+        "label": "Matthew Thornton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/nathan-hale",
+        "label": "Nathan Hale"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/new-netherland",
+        "label": "New Netherland"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/paul-revere",
+        "label": "Paul Revere"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/philadelphia",
+        "label": "Philadelphia"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/philip-livingston",
+        "label": "Philip Livingston"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/plymouth-colony",
+        "label": "Plymouth Colony"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-generals",
+        "label": "Generals"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-guns-the-guns-that-made-america",
+        "label": "Revolutionary War Guns"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-net-bookshelf",
+        "label": "Revolutionary-War.net Bookshelf"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-soldiers",
+        "label": "Soldiers"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-spies",
+        "label": "Spies"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-timeline",
+        "label": "Timeline"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/revolutionary-war-women",
+        "label": "Women"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/richard-henry-lee",
+        "label": "Richard Henry Lee"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/richard-stockton",
+        "label": "Richard Stockton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/roanoke-colony",
+        "label": "Roanoke: “The Lost Colony”"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/royal-proclamation-of-1763",
+        "label": "Royal Proclamation of 1763"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/samuel-chase",
+        "label": "Samuel Chase"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/siege-of-boston",
+        "label": "Siege of Boston"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/siege-of-fort-st-jean",
+        "label": "Siege of Fort St. Jean"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/siege-of-fort-st.-jean.html",
+        "label": "Siege of Fort St. Jean"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/skirmish-at-kemps-landing",
+        "label": "Skirmish at Kemp’s Landing"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/slavery-and-the-founding-fathers",
+        "label": "Slavery and the Founding Fathers"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/slavery-and-the-revolutionary-war",
+        "label": "Slavery and the Revolutionary War"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/south-carolina-colony",
+        "label": "North and South Carolina Colony"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/stephen-hopkins",
+        "label": "Stephen Hopkins"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/sullivan-expedition",
+        "label": "The Sullivan Expedition"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-bunker-hill-fought-at-breeds-hill",
+        "label": "Battle of Bunker Hill"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-concord",
+        "label": "Battle of Concord"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-lexington",
+        "label": "Battle of Lexington"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-long-island",
+        "label": "Battle of Long Island (Battle of Brooklyn)"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-princeton",
+        "label": "Battle of Princeton: January 3, 1777"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-saratoga",
+        "label": "Battle of Freeman’s Farm"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-the-cedars",
+        "label": "Battle of the Cedars"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-trenton-new-jersey",
+        "label": "Battle of Trenton"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-white-plains",
+        "label": "Battle of White Plains"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-battle-of-yorktown-virginia",
+        "label": "Battle of Yorktown"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-boston-massacre",
+        "label": "Boston Massacre"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-boston-tea-party",
+        "label": "Boston Tea Party"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-first-continental-congress",
+        "label": "First Continental Congress"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-french-and-indian-war",
+        "label": "French and Indian War"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-revolutionary-war-blog",
+        "label": "The Revolutionary War Blog"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-second-continental-congress",
+        "label": "Second Continental Congress"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-stamp-act-of-1765",
+        "label": "The Stamp Act"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/the-townshend-acts",
+        "label": "the Townshend Acts"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/thomas-heyward-jr",
+        "label": "Thomas Heyward, Jr."
+      },
+      {
+        "href": "https://www.revolutionary-war.net/thomas-lynch",
+        "label": "Thomas Lynch"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/thomas-mckean",
+        "label": "Thomas McKean"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/thomas-stone",
+        "label": "Thomas Stone"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/treaty-of-paris",
+        "label": "The Treaty of Paris"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/united-states-constitution",
+        "label": "the U.S. Constitution"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/us-constitution-text",
+        "label": "US Constitution Text: The Most Famous of Historical Documents"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/william-ellery",
+        "label": "William Ellery"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/william-floyd",
+        "label": "William Floyd"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/william-hooper",
+        "label": "William Hooper"
+      },
+      {
+        "href": "https://www.revolutionary-war.net/william-whipple",
+        "label": "William Whipple"
+      }
+    ]
+  }
+}

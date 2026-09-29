@@ -1,0 +1,130 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.70",
+  "checked": "2026-09-29",
+  "trails": {
+    "www.sanjacinto-museum.org": [
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/Monument",
+        "label": "Monument"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/Museum",
+        "label": "Museum"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/Museum/Art_and_Artifacts",
+        "label": "Art and Artifacts"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/Museum/Jesse_H_Jones_Theatre",
+        "label": "Jesse H. Jones Theatre"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/Museum/On_Exhibit",
+        "label": "On Exhibit"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle",
+        "label": "The Battle"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Battlefield",
+        "label": "Battlefield"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders",
+        "label": "Commanders"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Antonio_L%C3%B3pez_de_Santa_Anna",
+        "label": "General Santa Anna."
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Mart%C3%ADn_Perfecto_de_Cos",
+        "label": "General Mart&iacute;n Perfecto de Cos,"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Mirabeau_Lamar",
+        "label": "Mirabeau Lamar"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Sam_Houston",
+        "label": "General Sam Houston’s"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Sidney_Sherman",
+        "label": "Colonel Sidney Sherman,"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Commanders/Thomas_Rusk",
+        "label": "Thomas Rusk"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Veteran_Bios",
+        "label": "Veteran Bios"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Discover/The_Battle/Weapons",
+        "label": "Weapons"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Learn/For_Teachers",
+        "label": "For Teachers"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Learn/Library",
+        "label": "Library"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Learn/Suggested_Reading",
+        "label": "Suggested Reading"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Learn/Video_Library",
+        "label": "Video Library"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Support_Us/Become_a_Member",
+        "label": "Become a Member"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Support_Us/Corporate_Sponsorship",
+        "label": "Corporate Sponsorship"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Support_Us/Fundraisers",
+        "label": "Fundraisers"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Support_Us/Title_1_Schools_Campaign",
+        "label": "Title 1 Schools Campaign"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Support_Us/Volunteer",
+        "label": "Volunteer"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Visit/Admission",
+        "label": "Admission"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Visit/Calendar",
+        "label": "Calendar Calendar"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Visit/Group_Visits_and_Field_Trips",
+        "label": "Group Visits and Field Trips"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Visit/Hours_and_Directions",
+        "label": "Hours and Directions"
+      },
+      {
+        "href": "https://www.sanjacinto-museum.org/Visit/Things_To_Do",
+        "label": "Things To Do"
+      }
+    ]
+  }
+}
