@@ -1,5 +1,5 @@
 {
-  "v": 1,
+  "v": 2,
   "chars": [
     {
       "id": "zero-width",
@@ -232,5 +232,119 @@
       "text": "<h3"
     }
   ],
-  "note": "Fingerprints a paste out of an AI tool leaves in student writing. Read once a day by Margin (extension/aidetect.js); only v, chars and phrases are read, and a list that fails its checks is ignored whole."
+  "style": [
+    {
+      "id": "letter-opening",
+      "text": "hope this letter finds you"
+    },
+    {
+      "id": "letter-opening",
+      "text": "hope this message finds you"
+    },
+    {
+      "id": "letter-opening",
+      "text": "hope this finds you well"
+    },
+    {
+      "id": "letter-opening",
+      "text": "good health and spirits"
+    },
+    {
+      "id": "letter-opening",
+      "text": "dear esteemed"
+    },
+    {
+      "id": "letter-closing",
+      "text": "with utmost respect"
+    },
+    {
+      "id": "letter-closing",
+      "text": "yours in the cause of"
+    },
+    {
+      "id": "ai-word-esteemed",
+      "text": "esteemed"
+    },
+    {
+      "id": "ai-word-fervor",
+      "text": "fervor"
+    },
+    {
+      "id": "ai-word-kinship",
+      "text": "kinship"
+    },
+    {
+      "id": "ai-word-testament",
+      "text": "testament to"
+    },
+    {
+      "id": "ai-word-tapestry",
+      "text": "tapestry"
+    },
+    {
+      "id": "ai-word-delve",
+      "text": "delve"
+    },
+    {
+      "id": "ai-word-unwavering",
+      "text": "unwavering"
+    },
+    {
+      "id": "ai-word-profound",
+      "text": "profound"
+    },
+    {
+      "id": "ai-word-pivotal",
+      "text": "pivotal"
+    },
+    {
+      "id": "ai-word-multifaceted",
+      "text": "multifaceted"
+    },
+    {
+      "id": "ai-word-beacon",
+      "text": "a beacon of"
+    },
+    {
+      "id": "ai-word-embark",
+      "text": "embark"
+    },
+    {
+      "id": "ai-word-indelible",
+      "text": "indelible"
+    },
+    {
+      "id": "ai-word-steadfast",
+      "text": "steadfast"
+    },
+    {
+      "id": "ai-word-comrades",
+      "text": "your comrades"
+    },
+    {
+      "id": "ai-phrase-note",
+      "text": "it is important to note"
+    },
+    {
+      "id": "ai-phrase-annals",
+      "text": "in the annals of"
+    },
+    {
+      "id": "ai-phrase-rich",
+      "text": "rich tapestry"
+    },
+    {
+      "id": "ai-phrase-complexities",
+      "text": "navigate the complexities"
+    },
+    {
+      "id": "ai-phrase-shaping",
+      "text": "played a crucial role in shaping"
+    },
+    {
+      "id": "ai-phrase-fellow",
+      "text": "as a fellow soldier"
+    }
+  ],
+  "note": "Fingerprints a paste out of an AI tool leaves in student writing, and phrasing typical of AI prose. Read once a day by Margin (extension/aidetect.js); only v, chars, phrases and style are read, and a list that fails its checks is ignored whole."
 }
