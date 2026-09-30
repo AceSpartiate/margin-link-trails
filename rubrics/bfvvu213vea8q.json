@@ -1,0 +1,49 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.82",
+  "key": "bfvvu213vea8q",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "What the farming systems suggest about Tiwanaku society, plus a supporting reason",
+    "note": "Students watch the video first, but this is their own observation, so any reasonable reading of the fields counts.",
+    "anyOf": null,
+    "criteria": [],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Says something about what their society was like, and points to something in the fields or canals as the reason."
+      },
+      {
+        "score": 3,
+        "means": "Says something about what their society was like, but gives no reason from the fields or canals."
+      },
+      {
+        "score": 2,
+        "means": "Describes the raised fields or canals only, without saying what that shows about the people."
+      },
+      {
+        "score": 1,
+        "means": "Mentions the Tiwanaku, farming, or the video without answering the question. Worth 1 point."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "I think they were organized and worked together, because building all those canals and raised fields would take a lot of people planning it out."
+      },
+      {
+        "score": 3,
+        "answer": "It shows their society was smart and advanced."
+      },
+      {
+        "score": 2,
+        "answer": "They made raised fields with water canals in between them so the crops stayed warmer."
+      },
+      {
+        "score": 1,
+        "answer": "The Tiwanaku lived near Lake Titicaca in Bolivia."
+      }
+    ]
+  }
+}
