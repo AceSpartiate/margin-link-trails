@@ -113,6 +113,18 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md). Short version: URLs only, same h
 strings, no capability URLs, public pages, and every entry has to be checkable by opening it in a
 browser.
 
+## Rubrics
+
+`rubrics/` holds one file per lesson question: what a correct answer needs, what each score means,
+and a short example answer at each score. Margin writes them with a teacher's own model key and
+reads them before building one of its own, so a teacher without a key marks to the same standard.
+
+Each file is named by Margin's fingerprint of the question, which cannot be read back into the
+question. **No question text, no student work and no names are ever in these files.** They are added
+automatically through Margin's relay, which checks every field (no web addresses, no markup, nothing
+addressed to a model) and never replaces a file that is already here; Margin checks each file again
+when it reads it.
+
 ## Licence
 
 The trail data is released under [CC0 1.0](LICENSE) — public domain. These are facts about which
