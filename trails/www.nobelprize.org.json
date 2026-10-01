@@ -1,0 +1,154 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.84",
+  "checked": "2026-10-01",
+  "trails": {
+    "www.nobelprize.org": [
+      {
+        "href": "https://www.nobelprize.org",
+        "label": "Nobel Prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/about-the-nobel-prize",
+        "label": "About the prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/alfred-nobel",
+        "label": "Alfred Nobel"
+      },
+      {
+        "href": "https://www.nobelprize.org/all-nobel-prizes-2025",
+        "label": "All Nobel Prizes 2025"
+      },
+      {
+        "href": "https://www.nobelprize.org/educational",
+        "label": "Educational"
+      },
+      {
+        "href": "https://www.nobelprize.org/events-museums",
+        "label": "Events & museums"
+      },
+      {
+        "href": "https://www.nobelprize.org/mediaplayer",
+        "label": "Media player"
+      },
+      {
+        "href": "https://www.nobelprize.org/nobel-prize-award-ceremonies",
+        "label": "Award ceremonies"
+      },
+      {
+        "href": "https://www.nobelprize.org/nomination",
+        "label": "Nomination"
+      },
+      {
+        "href": "https://www.nobelprize.org/press-room",
+        "label": "Press"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/about/prize-announcement-dates",
+        "label": "Nobel Prize announcements 2026"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/chemistry",
+        "label": "Chemistry prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/economic-sciences",
+        "label": "Prize in economic sciences"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes",
+        "label": "All Nobel Prizes"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/literature",
+        "label": "Literature prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/medicine",
+        "label": "Medicine prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace",
+        "label": "Peace prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/award-video",
+        "label": "Award ceremony video"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/ceremony-speech",
+        "label": "Award ceremony speech"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/press-release",
+        "label": "Press release"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/prize-announcement",
+        "label": "Prize announcement"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/biographical",
+        "label": "Biographical"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/diploma",
+        "label": "Nobel diploma"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/interview",
+        "label": "Interview"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/lecture",
+        "label": "Nobel Prize lecture"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/other-resources",
+        "label": "Other resources"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/photo-gallery",
+        "label": "Photo gallery"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/prize-presentation",
+        "label": "Prize presentation"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/santos/speedread",
+        "label": "Speed read"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/peace/2016/summary",
+        "label": "Nobel Peace Prize 2016"
+      },
+      {
+        "href": "https://www.nobelprize.org/prizes/physics",
+        "label": "Physics prize"
+      },
+      {
+        "href": "https://www.nobelprize.org/stories",
+        "label": "Stories"
+      },
+      {
+        "href": "https://www.nobelprize.org/the-nobel-prize-organisation",
+        "label": "Organisation"
+      },
+      {
+        "href": "https://www.nobelprize.org/the-nobel-prize-organisation/outreach-organisations",
+        "label": "Outreach organisations"
+      },
+      {
+        "href": "https://www.nobelprize.org/the-nobel-prize-organisation/prize-awarding-institutions",
+        "label": "The prize-awarding institutions"
+      },
+      {
+        "href": "https://www.nobelprize.org/the-nobel-prize-organisation/the-nobel-foundation",
+        "label": "The Nobel Foundation"
+      }
+    ]
+  }
+}
