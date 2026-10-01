@@ -1,0 +1,70 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.84",
+  "key": "1y7od87acdj4n",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Name and explain at least two reasons Spain conquered despite being outnumbered",
+    "note": "Students may pick any two factors from the reading; the two they skip are not missing.",
+    "anyOf": 2,
+    "criteria": [
+      {
+        "term": "Military technology",
+        "needs": "Says Spanish had steel swords, armor, horses, or guns that were unfamiliar to Indigenous fighters, and explains this gave them an edge in battle."
+      },
+      {
+        "term": "Indigenous allies",
+        "needs": "Says some Indigenous groups allied with Spain against their own rivals, and explains these allies supplied soldiers, supplies, information, or knowledge of the land."
+      },
+      {
+        "term": "Conflict inside Indigenous states",
+        "needs": "Says Spain arrived where political fighting already existed, such as the recent Inca civil war over the throne, and explains this left the empire divided or weakened."
+      },
+      {
+        "term": "Disease",
+        "needs": "Says European diseases like smallpox, measles, or influenza spread to people never exposed to them, and explains the huge loss of population weakened resistance."
+      },
+      {
+        "term": "Capturing leaders",
+        "needs": "Says Spanish forces seized rulers, such as Pizarro capturing Atahualpa in 1532, and explains that taking the leader threw the government into confusion."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Gives two or more factors from the reading and explains how each one helped Spain beat larger forces."
+      },
+      {
+        "score": 3,
+        "means": "Gives two factors but explains only one; or explains one factor fully and stops there."
+      },
+      {
+        "score": 2,
+        "means": "Names two factors with no explanation of how they helped, or gives one vague reason."
+      },
+      {
+        "score": 1,
+        "means": "Writes about Spanish conquest but gives no factor that explains their success."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "The Spanish had steel swords, armor, guns, and horses that the Indigenous people had never fought against before, so they won battles even with fewer men. Also the Inca had just had a civil war over who should be king, so they were split up and weaker when Pizarro showed up and grabbed Atahualpa."
+      },
+      {
+        "score": 3,
+        "answer": "Spain won because lots of Native people got sick with smallpox and measles since they never had those diseases before, so there were way fewer people left to fight them. They also had better weapons."
+      },
+      {
+        "score": 2,
+        "answer": "They had better weapons and there was disease. Also they made alliances."
+      },
+      {
+        "score": 1,
+        "answer": "The Spanish came over on ships in the 1500s and took over South America and made it a colony."
+      }
+    ]
+  }
+}
