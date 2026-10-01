@@ -1,0 +1,66 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.84",
+  "key": "14s0s67dd67tr",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "How Colombian coffee growers and Durham coffee businesses are economically connected",
+    "note": "The video 'A Colombian Coffee Break' is not available as text, so accept any accurate description of the grower-to-shop trade link; students may name any roaster or shop detail from the video.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Colombia's role",
+        "needs": "Says Colombian farmers grow, harvest, or produce the coffee beans as a cash crop/natural resource."
+      },
+      {
+        "term": "Durham's role",
+        "needs": "Says businesses in Durham, like roasters, cafes, or stores, buy, roast, and sell the coffee to customers."
+      },
+      {
+        "term": "The trade link",
+        "needs": "States the beans are exported from Colombia and imported/shipped to the United States, connecting the two places through trade."
+      },
+      {
+        "term": "Why it matters",
+        "needs": "Explains the two depend on each other — Durham sales bring money and jobs to growers, and growers supply what Durham shops need."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Covers all four: Colombian growers, Durham sellers, the export-import trade link, and how each side depends on the other."
+      },
+      {
+        "score": 3,
+        "means": "Covers three of the four; one part, usually the dependence or the trade step, is left out."
+      },
+      {
+        "score": 2,
+        "means": "Names both places and coffee but gives no real trade link or reason it matters."
+      },
+      {
+        "score": 1,
+        "means": "Mentions coffee or Colombia but shows no connection between growers and the Durham business."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "Farmers in Colombia grow and pick the coffee beans because the climate is good for them. The beans get exported and shipped to the United States, and coffee shops and roasters in Durham roast them and sell drinks. They need each other, because the farmers need buyers to make money and the shops can't sell coffee without the growers."
+      },
+      {
+        "score": 3,
+        "answer": "Coffee farmers in Colombia grow the beans and then they get shipped to America. In Durham they roast the beans and sell coffee in shops and stores to people who buy it."
+      },
+      {
+        "score": 2,
+        "answer": "Colombia has coffee and Durham has coffee shops. They both are part of the coffee business."
+      },
+      {
+        "score": 1,
+        "answer": "I learned that coffee is really popular and a lot of people drink it every morning."
+      }
+    ]
+  }
+}
