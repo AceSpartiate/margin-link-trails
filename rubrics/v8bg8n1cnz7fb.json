@@ -1,0 +1,62 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.84",
+  "key": "v8bg8n1cnz7fb",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "One reason Bolívar became an important leader, backed by a source detail.",
+    "note": "Several reasons are acceptable (his military campaigns, joining the resistance in 1808, his vision of a united republic, his wealth and status); credit any reason that the student supports with an accurate detail from the video or biography.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "States one reason",
+        "needs": "Names one clear reason Bolívar became an important leader, such as leading military campaigns against Spain, joining the resistance when France invaded Spain, or his goal of uniting South America."
+      },
+      {
+        "term": "Uses a source detail",
+        "needs": "Gives one specific, accurate detail from the video or biography, such as the 1813 Admirable Campaign, the Venezuelan Second Republic, being called El Libertador, leading Gran Colombia in 1821, or Bolivia being named for him in 1825."
+      },
+      {
+        "term": "Connects detail to reason",
+        "needs": "Explains how that detail shows why Bolívar became an important leader of the independence movements, not just that it happened."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Gives a clear reason, one accurate detail from the video or reading, and explains how the detail shows it."
+      },
+      {
+        "score": 3,
+        "means": "Gives a reason and an accurate detail, but does not explain how the detail shows his importance."
+      },
+      {
+        "score": 2,
+        "means": "Gives a reason with no detail, or a detail with no reason stated."
+      },
+      {
+        "score": 1,
+        "means": "Mentions Bolívar or independence but gives no reason and no detail."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "One reason Bolivar became an important leader is that he led armies that beat the Spanish. The reading says in 1813 he invaded Venezuela in the Admirable Campaign and that led to the Venezuelan Second Republic. Winning that made people trust him and call him El Libertador, so he became the leader of the fight."
+      },
+      {
+        "score": 3,
+        "answer": "Bolivar was important because he fought the Spanish in lots of battles. The reading says he became leader of Gran Colombia in 1821."
+      },
+      {
+        "score": 2,
+        "answer": "He became a leader because he really wanted South America to be free from Spain."
+      },
+      {
+        "score": 1,
+        "answer": "Simon Bolivar was a famous guy from South America a long time ago and people still talk about him."
+      }
+    ]
+  }
+}
