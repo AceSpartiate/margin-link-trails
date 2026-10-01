@@ -1,0 +1,66 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.84",
+  "key": "wein14qr4uvw",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Why Bolívar mattered to northern South America's independence, with evidence",
+    "note": "Students may cite the video or the biography; any accurate specific detail (Admirable Campaign 1813, El Libertador, Gran Colombia 1821, Bolivia named for him 1825) counts as evidence.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Led the fight against Spain",
+        "needs": "States that Bolívar led military campaigns or resistance against Spanish forces/colonial rule in South America."
+      },
+      {
+        "term": "Places he helped free",
+        "needs": "Names at least one region he helped free from Spain: Venezuela, Colombia, Ecuador, Peru, Bolivia, or Panama."
+      },
+      {
+        "term": "Result of his victories",
+        "needs": "Says his victories helped end Spanish rule in much of northern South America, or led to new independent nations."
+      },
+      {
+        "term": "Specific evidence from the sources",
+        "needs": "Includes at least one accurate detail from the video or biography, such as El Libertador, the Admirable Campaign of 1813, leading Gran Colombia in 1821, or Bolivia being named in his honor in 1825."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Explains Bolívar led the fight against Spain, names a region freed, gives the result, and one accurate source detail."
+      },
+      {
+        "score": 3,
+        "means": "Covers three of the four: leading the fight, regions freed, the result, or a specific detail from the sources."
+      },
+      {
+        "score": 2,
+        "means": "Says Bolívar fought Spain or freed places, but gives no result and no specific detail. Two points."
+      },
+      {
+        "score": 1,
+        "means": "Mentions Bolívar or independence but does not say what he did or why it mattered."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "Simon Bolivar is important because he led armies against the Spanish and helped free Venezuela, Colombia, Ecuador, Peru and Bolivia. People called him El Libertador, which means the Liberator. In 1821 he became the leader of Gran Colombia. Because of his victories Spain lost control of most of northern South America and new countries were made."
+      },
+      {
+        "score": 3,
+        "answer": "Bolivar was important because he led the fight against the Spanish army and helped free Venezuela and Colombia. He was called El Libertador because he liberated people. He also led Gran Colombia after they won."
+      },
+      {
+        "score": 2,
+        "answer": "Bolivar is important because he fought against Spain in South America. He helped Venezuela and Peru in the wars."
+      },
+      {
+        "score": 1,
+        "answer": "Simon Bolivar was a leader a long time ago in South America and he is famous. People still talk about him today."
+      }
+    ]
+  }
+}
