@@ -1,0 +1,301 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.57",
+  "checked": "2026-08-28",
+  "trails": {
+    "kids.nationalgeographic.com": [
+      {
+        "href": "http://kids.nationalgeographic.com/games/puzzles",
+        "label": "Puzzles"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com",
+        "label": ""
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals",
+        "label": "Animals",
+        "words": 215
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/amphibians",
+        "label": "Amphibians"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/article/fat-bear-week",
+        "label": "Fat Bear Week"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/birds",
+        "label": "Birds"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/birds/topic/penguin-facts",
+        "label": "Penguin facts and photos"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish",
+        "label": "Fish",
+        "words": 241
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/article/surprising-sharks",
+        "label": "Surprising sharks"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/facts/blue-marlin",
+        "label": "Blue Marlin"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/facts/bull-shark",
+        "label": "Bull Shark"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/facts/clown-anemonefish",
+        "label": "Clown Anemonefish"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/facts/electric-eel",
+        "label": "Electric Eel"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/fish/facts/goblin-shark",
+        "label": "Goblin Shark"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/invertebrates",
+        "label": "Invertebrates"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals",
+        "label": "Mammals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/prehistoric",
+        "label": "Prehistoric"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/reptiles",
+        "label": "Reptiles"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games",
+        "label": "Games",
+        "words": 225
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure",
+        "label": "Action and Adventure"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/arctic-fox-snowboarding",
+        "label": "Arctic fox snowboarding"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/beaver-badminton",
+        "label": "Beaver badminton"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/bubble-burst",
+        "label": "Bubble Burst"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/bug-bash",
+        "label": "Bug Bash"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/dolphin-diving",
+        "label": ""
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/dung-beetle-derby",
+        "label": ""
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-adventure/article/space-explorer",
+        "label": "Space Explorer"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/action-and-adventure",
+        "label": "Action"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/funny-fill-in",
+        "label": "Funny Fill-In"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes",
+        "label": "Personality Quizzes"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes/article/animal-trickster-personality-quiz",
+        "label": "Animal trickster"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes/article/discover-which-penguin-species-youre-most-like",
+        "label": "Discover which penguin species you’re most like."
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes/article/discover-which-type-of-forest-you-would-thrive-in",
+        "label": "Discover your forest match."
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/personality-quizzes/article/which-chatty-animal-are-you",
+        "label": "Which \"chatty\" animal are you?"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles",
+        "label": "Puzzles"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles/article/matching-animals",
+        "label": "Matching: Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles/article/matching-countries",
+        "label": "Matching: Countries"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles/article/matching-gemstones",
+        "label": "Matching: Gemstones"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles/article/maze-oceans",
+        "label": "Maze: Oceans"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/puzzles/article/puzzles-habitats",
+        "label": "Puzzles: Habitats"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes",
+        "label": "Quizzes"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes/article/big-bear-quiz",
+        "label": "Big bear"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes/article/puffins",
+        "label": "Puffins"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes/article/royalty",
+        "label": "Royalty"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes/article/seahorses",
+        "label": "Seahorses"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/games/quizzes/article/us-states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history",
+        "label": "history"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-california",
+        "label": "Native People of California"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-great-basin",
+        "label": "People of the American Great Basin"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-great-plains",
+        "label": "Native People of the American Great Plains"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-northeast",
+        "label": "Native People of the American Northeast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-northwest-coast",
+        "label": "Native People of the American Northwest Coast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-southeast",
+        "label": "Native People of the American Southeast"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-american-southwest",
+        "label": "People of the American Southwest"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/history/article/native-people-of-the-arctic-and-subarctic",
+        "label": "Native People of the Arctic and Subarctic"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/magazine",
+        "label": "Magazine"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/science",
+        "label": "Science"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/space",
+        "label": "Space"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos",
+        "label": "Videos"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/amazing-animals",
+        "label": "Amazing Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/animal-close-ups",
+        "label": "Animal Close-ups"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/animal-lol",
+        "label": "Animal LOL"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/animal-showdown",
+        "label": "Animal Showdown"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/awesome-8",
+        "label": "Awesome 8"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/party-animals",
+        "label": "Party Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/try-this",
+        "label": "Try This!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/weird-but-true-shorts",
+        "label": "Weird But True!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/videos/topic/what-sam-sees",
+        "label": "What Sam Sees"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/weird-but-true",
+        "label": "Weird But True!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/weird-but-true/article/marine-animal",
+        "label": "Weird But True: Marine Animals"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/weird-but-true/article/more-animals",
+        "label": "Weird But True: Animals"
+      }
+    ]
+  }
+}

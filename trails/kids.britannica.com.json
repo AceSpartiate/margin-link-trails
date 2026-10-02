@@ -1,0 +1,756 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.57",
+  "checked": "2026-08-31",
+  "trails": {
+    "kids.britannica.com": [
+      {
+        "href": "https://kids.britannica.com/kids",
+        "label": "Kids"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/activities",
+        "label": "Activities"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Abraham/352699",
+        "label": "Abraham"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Adolf-Hitler/353254",
+        "label": "Adolf Hitler"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/African-Americans/352712",
+        "label": "African American"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Algeria/345824",
+        "label": "Algeria"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Angela-Merkel/631710",
+        "label": "Angela Merkel"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Anne-Frank/384645",
+        "label": "Anne Frank"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Appalachian-Mountains/346081",
+        "label": "Appalachian Mountains"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Asian-Americans/352792",
+        "label": "Asian Americans"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Australia/345639",
+        "label": "Australia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Austria-Hungary/352806",
+        "label": "Austro-Hungarian Empire"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Baghdad/345849",
+        "label": "Baghdad"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battle-of-Britain/623978",
+        "label": "Battle of Britain"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battle-of-Jutland/606561",
+        "label": "Battle of Jutland"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battle-of-Stalingrad/623984",
+        "label": "Stalingrad"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battle-of-Tannenberg/606625",
+        "label": "Battle of Tannenberg"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battle-of-Verdun/606563",
+        "label": "Battle of Verdun"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Battles-of-Ypres/606572",
+        "label": "First Battle of Ypres"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Belgium/345647",
+        "label": "Belgium"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Benito-Mussolini/353511",
+        "label": "Benito Mussolini’s"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Berlin-Wall/598930",
+        "label": "Berlin Wall"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Berlin/345862",
+        "label": "Berlin"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Bible/352851",
+        "label": "Bible"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Blitz-The/476227",
+        "label": "Blitz"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Bosnia-and-Herzegovina/345652",
+        "label": "Bosnia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Bulgaria/345656",
+        "label": "Bulgaria"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Canada/345661",
+        "label": "Canada"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Charles-de-Gaulle/353045",
+        "label": "Charles de Gaulle"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Chicago/346099",
+        "label": "Chicago"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/China/345666",
+        "label": "China"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Cold-War/352982",
+        "label": "Cold War"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Czechoslovakia/383420",
+        "label": "Czechoslovakia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/D-Day/476249",
+        "label": "D-Day"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Danube-River/439434",
+        "label": "Danube"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Dardanelles-Campaign/606569",
+        "label": "Dardanelles Campaign"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Death-Valley/353041",
+        "label": "Death Valley"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Denmark/345677",
+        "label": "Denmark"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Dunkirk-evacuation/623980",
+        "label": "Dunkirk"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Egypt/345682",
+        "label": "Egypt"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Estonia/345686",
+        "label": "Estonia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Ethiopia/345687",
+        "label": "Ethiopia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Europe/353110",
+        "label": "Europe"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/European-Union/353111",
+        "label": "European Union"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Finland/345689",
+        "label": "Finland"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/First-Battle-of-the-Marne/606545",
+        "label": "First Battle of the Marne"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/First-Battle-of-the-Somme/606552",
+        "label": "First Battle of the Somme"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/France/345690",
+        "label": "France"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Franklin-D-Roosevelt/345521",
+        "label": "Franklin D. Roosevelt"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Germany/345694",
+        "label": "Germany",
+        "words": 1975
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Germany/345694/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Great-Lakes/346130",
+        "label": "Great Lakes"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Greece/345696",
+        "label": "Greece"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Grimm-Brothers/353216",
+        "label": "Grimm brothers"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Hanukkah/353230",
+        "label": "Hanukkah"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Hiroshima/353252",
+        "label": "Hiroshima"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Hispanic-Americans/353253",
+        "label": "Hispanic Americans"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Holocaust/353260",
+        "label": "Holocaust",
+        "words": 1017
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Holocaust/353260/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Holy-Roman-Empire/353261",
+        "label": "Holy Roman Empire"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/India/345707",
+        "label": "India"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Indonesia/345708",
+        "label": "Indonesia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Iraq/345710",
+        "label": "Iraq"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Israel/345712",
+        "label": "Israel"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Italy/345713",
+        "label": "Italy"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Japan/345715",
+        "label": "Japan"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Jerusalem/346152",
+        "label": "Jerusalem"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Johann-Sebastian-Bach/352813",
+        "label": "Johann Sebastian Bach"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Joseph-Stalin/353807",
+        "label": "Joseph Stalin"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Judaism/353327",
+        "label": "Jewish",
+        "words": 1563
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Judaism/353327/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Latvia/345724",
+        "label": "Latvia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/League-of-Nations/353370",
+        "label": "League of Nations"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Lithuania/345730",
+        "label": "Lithuania"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Los-Angeles/346163",
+        "label": "Los Angeles"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Ludwig-van-Beethoven/352841",
+        "label": "Ludwig van Beethoven"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Lusitania/390044",
+        "label": "Lusitania"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Luther-Martin/353401",
+        "label": "Martin Luther",
+        "words": 825
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Luther-Martin/353401/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Luxembourg/345731",
+        "label": "Luxembourg"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Mediterranean-Sea/353449",
+        "label": "Mediterranean Sea"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Mexico/345743",
+        "label": "Mexico"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Middle-East/346176",
+        "label": "Middle East"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Mississippi-River/346177",
+        "label": "Mississippi"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Missouri-River/346178",
+        "label": "Missouri"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Morocco/345748",
+        "label": "Morocco"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Moses/353493",
+        "label": "Moses"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Mount-McKinley/353447",
+        "label": "Mount McKinley (also called Denali)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Myanmar/345750",
+        "label": "Myanmar"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Nazi-Party/353523",
+        "label": "Nazi Party"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Netherlands/345754",
+        "label": "the Netherlands"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/New-York-City/353530",
+        "label": "New York City"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/New-Zealand/345755",
+        "label": "New Zealand"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Nobel-Prize/353538",
+        "label": "Nobel Prize"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Norway/345759",
+        "label": "Norway"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Nuremberg-Trials/390045",
+        "label": "Nuremberg"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Olympic-Games/353563",
+        "label": "Olympic Games"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Ottoman-Empire/353582",
+        "label": "Ottoman Empire"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Paris/345991",
+        "label": "Paris"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Passover/353602",
+        "label": "Passover"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Pearl-Harbor/574593",
+        "label": "Pearl Harbor"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Philippines/345767",
+        "label": "Philippines"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Poland/345768",
+        "label": "Poland"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Protestantism/353672",
+        "label": "Protestantism"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Purim/400156",
+        "label": "Purim"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Reformation/353703",
+        "label": "Reformation"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Rhine-River/346200",
+        "label": "Rhine"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Rocky-Mountains/346204",
+        "label": "Rocky Mountains"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Roman-Catholicism/353727",
+        "label": "Roman Catholic"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Rosh-Hashana/353731",
+        "label": "Rosh Hashana"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Russia/345773",
+        "label": "Russia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Russian-Revolution/353713",
+        "label": "Russian Revolution"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Sarajevo/346027",
+        "label": "Sarajevo"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Second-Battle-of-the-Marne/606550",
+        "label": "Second Battle of the Marne"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Second-Battle-of-the-Somme/606556",
+        "label": "Second Battle of the Somme"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Serbia/345819",
+        "label": "Serbia"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Sierra-Nevada/346215",
+        "label": "Sierra Nevada"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Singapore/345827",
+        "label": "Singapore"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/South-Africa/345787",
+        "label": "South Africa"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Suez-Canal/353819",
+        "label": "Suez Canal"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Switzerland/345795",
+        "label": "Switzerland"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Syria/345796",
+        "label": "Syria"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/TE-Lawrence/606591",
+        "label": "T.E. Lawrence"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Talmud/399616",
+        "label": "Talmud"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Torah/399625",
+        "label": "Torah"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Turkey/345805",
+        "label": "Turkey"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Union-of-Soviet-Socialist-Republics/353884",
+        "label": "Soviet Union"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/United-Kingdom/345811",
+        "label": "United Kingdom"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/United-States-history/353888",
+        "label": "United States history"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/United-States/345812",
+        "label": "United States",
+        "words": 1413
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/United-States/345812/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Washington-DC/346224",
+        "label": "Washington, D.C."
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Winston-Churchill/352961",
+        "label": "Winston Churchill"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Woodrow-Wilson/345538",
+        "label": "Woodrow Wilson"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/World-War-I/10629531",
+        "label": "April 1915"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/World-War-I/353933/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/World-War-II/353934",
+        "label": "World War II"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/World-War-II/353934/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/Yom-Kippur/353948",
+        "label": "Yom Kippur"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/antisemitism/399340",
+        "label": "antisemitism"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/army/352785",
+        "label": "Armies"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/autumn/623339",
+        "label": "autumn"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/battles-of-the-Meuse-Argonne/606665",
+        "label": "Battles of the Meuse-Argonne"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/bomb/352873",
+        "label": "bomb",
+        "words": 1064
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/bomb/352873/email",
+        "label": "Email (Subscriber Feature)"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/fascism/353118",
+        "label": "Fascist"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/legislature/353372",
+        "label": "legislatures"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/nuclear-energy/353549",
+        "label": "Nuclear"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/radar/383423",
+        "label": "radar"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/rocket/353724",
+        "label": "rockets"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/submarine/390261",
+        "label": "submarines"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/synagogue/399986",
+        "label": "synagogue"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/article/weapon/390870",
+        "label": "weapons"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173166",
+        "label": "Insects and Other Arthropods"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173168",
+        "label": "Amphibians and Reptiles"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173169",
+        "label": "Birds"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173171",
+        "label": "Fish"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173173",
+        "label": "Mammals"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173175",
+        "label": "Mollusks"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173176",
+        "label": "Extinct Animals"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/animals/2173178",
+        "label": "Other Sea Animals"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/atlas",
+        "label": "World Atlas"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/dictionary",
+        "label": "Dictionary"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/browse/index/biography",
+        "label": "Biographies"
+      },
+      {
+        "href": "https://kids.britannica.com/kids/compare",
+        "label": "Compare Countries"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/Germany/106260",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/Holocaust/40821",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/Judaism/105859",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/Martin-Luther/108504",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/United-States/111233",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/World-War-I/110198",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/World-War-II/110199",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/scholars/article/bomb/80529",
+        "label": "Scholars"
+      },
+      {
+        "href": "https://kids.britannica.com/show-what-you-know-podcast",
+        "label": "Podcast"
+      },
+      {
+        "href": "https://kids.britannica.com/students",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/Germany/274536",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/Holocaust/274919",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/Judaism/275192",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/Martin-Luther/275557",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/United-States/277512",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/World-War-I/277797",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/World-War-II/277798",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/students/article/bomb/273279",
+        "label": "Students"
+      },
+      {
+        "href": "https://kids.britannica.com/tour",
+        "label": "Take a tour"
+      }
+    ]
+  }
+}
