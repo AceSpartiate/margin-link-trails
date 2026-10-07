@@ -1,0 +1,70 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.110",
+  "key": "ztat8j1pvnfpf",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Name one Houston challenge, his response, judge it, cite lesson evidence",
+    "note": "Students pick different challenges (debt, Mexico, Indigenous relations, army/military spending, annexation, the Archive War), so judge whichever one is chosen against the readings, not against one fixed answer.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Challenge named",
+        "needs": "Names one real challenge Houston faced as president, such as debt, Mexican invasions, relations with Indigenous nations, military spending, or annexation."
+      },
+      {
+        "term": "Houston's response",
+        "needs": "States what Houston actually did about that challenge, such as cutting offices and salaries, furloughing the army, negotiating treaties, making peace offers to Mexico, or working for annexation."
+      },
+      {
+        "term": "Judgment stated",
+        "needs": "Clearly calls the response a success, a failure, or mixed."
+      },
+      {
+        "term": "Evidence from the reading",
+        "needs": "Gives at least one specific fact from the articles that supports the judgment, such as the Senate refusing the Cherokee treaty, the Mier Expedition, the Archive War, U.S. recognition of Texas, or the defeated annexation treaty."
+      },
+      {
+        "term": "Accuracy",
+        "needs": "The facts used match the lesson; no invented events, dates, or people."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Names a challenge, tells what Houston did, judges the result, and backs it with correct lesson facts."
+      },
+      {
+        "score": 3,
+        "means": "Does all but one: usually missing the supporting fact, or the judgment is left unstated."
+      },
+      {
+        "score": 2,
+        "means": "Names the challenge and roughly what Houston did, but no judgment and no evidence."
+      },
+      {
+        "score": 1,
+        "means": "Writes about Houston but names no challenge, no action, and no judgment."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "A big challenge for Houston was money. In his second term the treasury was empty and Texas paper money was almost worthless, so he cut government offices and lowered salaries. I think it had mixed results because he saved money but Texas was still poor and the annexation treaty got voted down."
+      },
+      {
+        "score": 3,
+        "answer": "Houston's biggest challenge was the money problems of the Republic. He cut down government offices and salaries to spend less. I think he was mostly successful."
+      },
+      {
+        "score": 2,
+        "answer": "Texas owed a lot of money after the Revolution. Houston tried to fix the money problems while he was president."
+      },
+      {
+        "score": 1,
+        "answer": "Sam Houston was the president of the Republic of Texas two times and a city got named after him."
+      }
+    ]
+  }
+}
