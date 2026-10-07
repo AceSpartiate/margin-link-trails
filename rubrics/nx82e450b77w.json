@@ -1,0 +1,49 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.110",
+  "key": "nx82e450b77w",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Why a republic's constitution wouldn't work once Texas became a state",
+    "note": "Warmup: students speculate before learning about the Convention of 1845; any reasoned idea about the change from republic to state counts.",
+    "anyOf": null,
+    "criteria": [],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Gives an idea about why a state needs a different constitution, with a reason behind it."
+      },
+      {
+        "score": 3,
+        "means": "Gives an idea about why a new constitution was needed, but no reason behind it."
+      },
+      {
+        "score": 2,
+        "means": "Talks about Texas joining the United States without saying why a new constitution was needed."
+      },
+      {
+        "score": 1,
+        "means": "Mentions Texas, statehood, or constitutions only, with no answer to the question."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "A republic runs itself, but a state has to follow the U.S. government too. So the old rules would not match the new job."
+      },
+      {
+        "score": 3,
+        "answer": "I think the old constitution did not fit anymore so they had to write a new one."
+      },
+      {
+        "score": 2,
+        "answer": "Texas joined the United States in 1845 and became a state."
+      },
+      {
+        "score": 1,
+        "answer": "Texas has a constitution."
+      }
+    ]
+  }
+}
