@@ -1,0 +1,206 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.110",
+  "checked": "2026-10-08",
+  "trails": {
+    "www.thoughtco.com": [
+      {
+        "href": "https://www.thoughtco.com",
+        "label": "ThoughtCo"
+      },
+      {
+        "href": "https://www.thoughtco.com/animals-and-nature-4133421",
+        "label": "Animals & Nature"
+      },
+      {
+        "href": "https://www.thoughtco.com/antonio-lopez-de-santa-anna-biography-2136663",
+        "label": "Antonio Lopez de Santa Anna"
+      },
+      {
+        "href": "https://www.thoughtco.com/battle-of-molino-del-rey-2361045",
+        "label": "The Battle of Molino del Rey: September 8, 1847"
+      },
+      {
+        "href": "https://www.thoughtco.com/battle-of-resaca-de-la-palma-2361050",
+        "label": "The Battle of Resaca de la Palma: May 9, 1846"
+      },
+      {
+        "href": "https://www.thoughtco.com/chapultepec-castle-2136652",
+        "label": "fortress at the top of the Chapultepec hill"
+      },
+      {
+        "href": "https://www.thoughtco.com/christopher-minster-2136113",
+        "label": "Christopher Minster"
+      },
+      {
+        "href": "https://www.thoughtco.com/computer-science-4133486",
+        "label": "Computer Science"
+      },
+      {
+        "href": "https://www.thoughtco.com/english-4688281",
+        "label": "English"
+      },
+      {
+        "href": "https://www.thoughtco.com/esl-4133095",
+        "label": "English as a Second Language"
+      },
+      {
+        "href": "https://www.thoughtco.com/for-adult-learners-4132469",
+        "label": "For Adult Learners"
+      },
+      {
+        "href": "https://www.thoughtco.com/for-educators-4132509",
+        "label": "For Educators"
+      },
+      {
+        "href": "https://www.thoughtco.com/for-students-parents-4132588",
+        "label": "For Students & Parents"
+      },
+      {
+        "href": "https://www.thoughtco.com/french-4133079",
+        "label": "French"
+      },
+      {
+        "href": "https://www.thoughtco.com/geography-4133035",
+        "label": "Geography"
+      },
+      {
+        "href": "https://www.thoughtco.com/german-4133073",
+        "label": "German"
+      },
+      {
+        "href": "https://www.thoughtco.com/history-and-culture-4133356",
+        "label": "History & Culture"
+      },
+      {
+        "href": "https://www.thoughtco.com/humanities-4133358",
+        "label": "Humanities"
+      },
+      {
+        "href": "https://www.thoughtco.com/issues-4133022",
+        "label": "Issues"
+      },
+      {
+        "href": "https://www.thoughtco.com/italian-4133069",
+        "label": "Italian"
+      },
+      {
+        "href": "https://www.thoughtco.com/james-k-polk-significant-facts-1773429",
+        "label": "The War in the West"
+      },
+      {
+        "href": "https://www.thoughtco.com/james-polk-11th-president-united-states-104737",
+        "label": "James Polk"
+      },
+      {
+        "href": "https://www.thoughtco.com/japanese-4133062",
+        "label": "Japanese"
+      },
+      {
+        "href": "https://www.thoughtco.com/languages-4133094",
+        "label": "Languages"
+      },
+      {
+        "href": "https://www.thoughtco.com/latin-american-history-4133296",
+        "label": "Latin American History"
+      },
+      {
+        "href": "https://www.thoughtco.com/literature-4133251",
+        "label": "Literature"
+      },
+      {
+        "href": "https://www.thoughtco.com/major-general-zachary-taylor-2360134",
+        "label": "Zachary Taylor"
+      },
+      {
+        "href": "https://www.thoughtco.com/mandarin-4133057",
+        "label": "Mandarin"
+      },
+      {
+        "href": "https://www.thoughtco.com/math-4133545",
+        "label": "Math"
+      },
+      {
+        "href": "https://www.thoughtco.com/mexican-american-war-battle-cerro-gordo-2361041",
+        "label": "The Battle of Cerro Gordo: April 17-18, 1847"
+      },
+      {
+        "href": "https://www.thoughtco.com/mexican-american-war-battle-of-monterrey-2361046",
+        "label": "The Battle of Monterrey: September 21-24, 1846"
+      },
+      {
+        "href": "https://www.thoughtco.com/mexican-american-war-general-winfield-scott-2360147",
+        "label": "Winfield Scott"
+      },
+      {
+        "href": "https://www.thoughtco.com/mexican-history-4133288",
+        "label": "Mexican History"
+      },
+      {
+        "href": "https://www.thoughtco.com/philosophy-4133025",
+        "label": "Philosophy"
+      },
+      {
+        "href": "https://www.thoughtco.com/resources-4132590",
+        "label": "Resources"
+      },
+      {
+        "href": "https://www.thoughtco.com/russian-4175265",
+        "label": "Russian"
+      },
+      {
+        "href": "https://www.thoughtco.com/science-4132464",
+        "label": "Science"
+      },
+      {
+        "href": "https://www.thoughtco.com/sciences-math-4132465",
+        "label": "Science, Tech, Math"
+      },
+      {
+        "href": "https://www.thoughtco.com/social-sciences-4133522",
+        "label": "Social Sciences"
+      },
+      {
+        "href": "https://www.thoughtco.com/spanish-4133085",
+        "label": "Spanish"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-battle-of-buena-vista-2136667",
+        "label": "The Battle of Buena Vista: February 22-23, 1847"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-battle-of-chapultepec-2136193",
+        "label": "The Battle of Contreras: August 20, 1847"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-battle-of-palo-alto-2136669",
+        "label": "The Battle of Palo Alto: May 8, 1846"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-mexican-american-war-2136186",
+        "label": "The Mexican-American War"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-saint-patricks-battalion-2136187",
+        "label": "St. Patrick's Battalion"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-siege-of-veracruz-2136672",
+        "label": "The Siege of Veracruz: March 9-29, 1847"
+      },
+      {
+        "href": "https://www.thoughtco.com/the-treaty-of-guadalupe-hidalgo-2136197",
+        "label": "The Treaty of Guadalupe Hidalgo"
+      },
+      {
+        "href": "https://www.thoughtco.com/visual-arts-4132957",
+        "label": "Visual Arts"
+      },
+      {
+        "href": "https://www.thoughtco.com/why-americans-won-mexican-american-war-2136189",
+        "label": "the American army won all of them"
+      }
+    ]
+  }
+}
