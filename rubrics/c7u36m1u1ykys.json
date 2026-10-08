@@ -1,0 +1,70 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.110",
+  "key": "c7u36m1u1ykys",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Summarize one battle: when, where, who, what happened, why it mattered",
+    "note": "Students each pick a different battle, so the specific facts vary; judge accuracy against the battle chosen (Palo Alto, Resaca de la Palma, Monterrey, Buena Vista, Veracruz, Mexico City, etc.).",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Names the battle",
+        "needs": "States clearly which battle of the U.S.-Mexican War is being summarized."
+      },
+      {
+        "term": "When and where",
+        "needs": "Gives the date or year of the battle and the place or region where it was fought."
+      },
+      {
+        "term": "Who fought",
+        "needs": "Identifies the two sides and at least one commander, such as Taylor, Scott, Arista, Ampudia, or Santa Anna."
+      },
+      {
+        "term": "What happened",
+        "needs": "Describes the main action of the battle, such as the siege, ambush, artillery, or divided attack."
+      },
+      {
+        "term": "Outcome and importance",
+        "needs": "Tells who won and why the battle mattered to the war."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Names the battle with date, place, both sides and a leader, the action, winner, and importance."
+      },
+      {
+        "score": 3,
+        "means": "Strong summary of one battle, but one part is missing, such as the date or why it mattered."
+      },
+      {
+        "score": 2,
+        "means": "Names a battle and gives two or three facts, with little detail about the action or result."
+      },
+      {
+        "score": 1,
+        "means": "Writes about the war or battles in general without details about one chosen battle."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "The Battle of Palo Alto happened on May 8, 1846 in Texas near the Mexico border. Mexican General Arista set a trap for American General Zachary Taylor, but the new American flying artillery won the fight. The Americans won, and it was the first big battle of the U.S.-Mexican War."
+      },
+      {
+        "score": 3,
+        "answer": "The Battle of Monterrey was in northern Mexico. General Ampudia made the city really strong with forts, but General Taylor split his army and attacked from two sides. The Mexican forts were too far apart to help each other, so the city surrendered to the Americans."
+      },
+      {
+        "score": 2,
+        "answer": "I picked the Battle of Buena Vista. Santa Anna fought Zachary Taylor there and the Americans won."
+      },
+      {
+        "score": 1,
+        "answer": "There were lots of battles in the war and tons of soldiers died. More of them died from diseases in the camps than from fighting."
+      }
+    ]
+  }
+}
