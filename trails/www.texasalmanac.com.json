@@ -1,0 +1,34 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.110",
+  "checked": "2026-08-24",
+  "trails": {
+    "www.texasalmanac.com": [
+      {
+        "href": "https://www.texasalmanac.com/buy-the-book",
+        "label": "Buy now &raquo;"
+      },
+      {
+        "href": "https://www.texasalmanac.com/land-rush",
+        "label": "Adopt a Town"
+      },
+      {
+        "href": "https://www.texasalmanac.com/page/almanac-teacher-guide",
+        "label": "Almanac Teacher's Guide"
+      },
+      {
+        "href": "https://www.texasalmanac.com/page/curated-resources-for-students-researchers",
+        "label": "Related Links"
+      },
+      {
+        "href": "https://www.texasalmanac.com/places",
+        "label": "Places"
+      },
+      {
+        "href": "https://www.texasalmanac.com/submit-event",
+        "label": "Submit an Event"
+      }
+    ]
+  }
+}
