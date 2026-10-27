@@ -1,0 +1,62 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.129",
+  "key": "kokraqub1bvg",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Why framers of the 1845 Constitution limited the legislature's power",
+    "note": "",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Fear of too much power",
+        "needs": "Says the framers did not want the legislature, or any part of government, to become too powerful."
+      },
+      {
+        "term": "Past experience",
+        "needs": "Points to the framers' years of government under Mexico and/or the Republic of Texas as the reason for their caution."
+      },
+      {
+        "term": "Protecting people",
+        "needs": "Says the limits were meant to keep lawmakers from going beyond their authority and to protect citizens' rights."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Gives all three: fear of too much power, past government under Mexico or the Republic, protecting people's rights."
+      },
+      {
+        "score": 3,
+        "means": "Gives two of the three reasons clearly, but leaves one out."
+      },
+      {
+        "score": 2,
+        "means": "Gives one reason, or lists reasons with no explanation of why framers felt that way."
+      },
+      {
+        "score": 1,
+        "means": "Writes about the legislature or the constitution but gives no reason for the limits."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "The framers had already lived under Mexico's government and the Republic of Texas, so they were worried about government getting too strong. They did not want the legislature to become too powerful. Putting limits on it kept lawmakers from going past what they were allowed to do and protected people's rights."
+      },
+      {
+        "score": 3,
+        "answer": "They were scared the legislature would get too powerful and start doing whatever it wanted. The limits made sure lawmakers couldn't take away the rights of regular citizens."
+      },
+      {
+        "score": 2,
+        "answer": "They didn't want the legislature to have too much power."
+      },
+      {
+        "score": 1,
+        "answer": "Article VII was the longest part of the Constitution of 1845 and it was called General Provisions."
+      }
+    ]
+  }
+}
