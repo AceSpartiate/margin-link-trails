@@ -1,0 +1,66 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.110",
+  "key": "p852t4kzmurm",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Link Nordic model features to Scandinavia's high quality-of-life rankings, using two details",
+    "note": "Students may choose any two features from the reading; different valid details should be accepted equally.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "Two details from the reading",
+        "needs": "Names at least two specific features of the Nordic model, such as health care, education, paid family leave, retirement support, unemployment or low-income aid, taxes funding programs, unions working with employers and government, or policies reducing income gaps."
+      },
+      {
+        "term": "Explains the connection",
+        "needs": "Says how those features would make people's lives better or more secure, for example less worry about medical bills, job loss, or paying for school."
+      },
+      {
+        "term": "Ties to the rankings",
+        "needs": "States that Denmark, Norway, and Sweden rank among the highest in quality-of-life or World Happiness Report ratings and links that to the Nordic model."
+      },
+      {
+        "term": "Accurate about the model",
+        "needs": "Keeps both sides of the model straight: businesses stay privately owned and compete in markets while taxes fund large government services; does not call these economies socialist."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Two features named, explained as helping people's lives, tied to the high rankings, with the private-plus-public mix kept straight."
+      },
+      {
+        "score": 3,
+        "means": "Does three of those four things; for example, strong connection but leaves out the private business side or the rankings."
+      },
+      {
+        "score": 2,
+        "means": "Names features but barely explains them, or explains one link only; may blur private ownership with government control."
+      },
+      {
+        "score": 1,
+        "means": "Writes about Scandinavia or the Nordic model but makes no connection to quality of life."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "Denmark, Norway, and Sweden rank highest in the World Happiness Report, and I think the Nordic model is part of why. The government uses tax money to pay for health care and paid family leave, so people don't panic if they get sick or have a baby. Businesses are still privately owned and compete, so people can also work and start companies."
+      },
+      {
+        "score": 3,
+        "answer": "The reading said the governments pay for health care, education, and help for people who are unemployed. That means people feel safer about money, so they rate their lives higher. Scandinavia is near the top of the happiness rankings because of these programs."
+      },
+      {
+        "score": 2,
+        "answer": "The Nordic model gives people health care and education. That is probably why they are happy there."
+      },
+      {
+        "score": 1,
+        "answer": "The Nordic countries are Denmark, Norway, Sweden, Finland, and Iceland. They are in northern Europe and have market economies."
+      }
+    ]
+  }
+}
