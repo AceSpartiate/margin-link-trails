@@ -1,0 +1,66 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.129",
+  "key": "k70ou75mx0h3",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Describe the judicial branch (courts) set up by the 1845 Constitution",
+    "note": "The lesson page gives Supreme Court and district courts; the linked sources add inferior courts, six-year appointed judgeships, three Supreme Court judges, and trial by jury — any of these counts as the extra detail.",
+    "anyOf": null,
+    "criteria": [
+      {
+        "term": "What the branch is",
+        "needs": "Says the judicial branch was the state's court system — the branch that hears cases and interprets or applies the law."
+      },
+      {
+        "term": "Texas Supreme Court",
+        "needs": "Names the Texas Supreme Court and states it was the highest court in the state."
+      },
+      {
+        "term": "District courts",
+        "needs": "Names district courts as the lower courts included in the judicial branch."
+      },
+      {
+        "term": "One further accurate detail",
+        "needs": "Adds one correct detail from the sources, such as inferior courts, judges appointed by the governor with Senate approval, six-year terms, three Supreme Court judges, or protected trial by jury."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Says the branch was the courts, names the Supreme Court as highest, names district courts, adds one correct detail."
+      },
+      {
+        "score": 3,
+        "means": "Covers three of the four: courts, Supreme Court as highest, district courts, extra detail. One is missing."
+      },
+      {
+        "score": 2,
+        "means": "Names the courts or the Supreme Court only, with no levels explained and no added detail."
+      },
+      {
+        "score": 1,
+        "means": "Writes about the 1845 Constitution but says nothing correct about the courts."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "The judicial branch was the courts that decided cases and applied the laws. The Texas Supreme Court was the highest court in the state, and there were also district courts. The governor appointed the judges for six year terms with the Senate agreeing."
+      },
+      {
+        "score": 3,
+        "answer": "The judicial branch was the part of government with the courts that handle cases. The highest one was the Texas Supreme Court and there were district courts under it."
+      },
+      {
+        "score": 2,
+        "answer": "The judicial branch had the Texas Supreme Court in it."
+      },
+      {
+        "score": 1,
+        "answer": "The Constitution of 1845 made three branches and James Pinckney Henderson was the first governor of the state."
+      }
+    ]
+  }
+}
