@@ -1,0 +1,158 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.110",
+  "checked": "2026-10-27",
+  "trails": {
+    "kids.nationalgeographic.com": [
+      {
+        "href": "http://kids.nationalgeographic.com",
+        "label": ""
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals",
+        "label": "Animals"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/amphibians",
+        "label": "Amphibians"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/birds",
+        "label": "Birds"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/fish",
+        "label": "Fish"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/invertebrates",
+        "label": "Invertebrates"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/mammals",
+        "label": "Mammals"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/prehistoric",
+        "label": "Prehistoric"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/animals/reptiles",
+        "label": "Reptiles"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games",
+        "label": "Games"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games/action-and-adventure",
+        "label": "Action"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games/funny-fill-in",
+        "label": "Funny Fill-In"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games/personality-quizzes",
+        "label": "Personality Quizzes"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games/puzzles",
+        "label": "Puzzles"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/games/quizzes",
+        "label": "Quizzes"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/geography/states",
+        "label": "U.S. States"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/history",
+        "label": "history"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/magazine",
+        "label": "Magazine"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/science",
+        "label": "Science"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/space",
+        "label": "Space"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/videos",
+        "label": "Videos"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/videos/topic/amazing-animals",
+        "label": "Amazing Animals"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/videos/topic/party-animals",
+        "label": "Party Animals"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/videos/topic/try-this",
+        "label": "Try This!"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/videos/topic/weird-but-true-shorts",
+        "label": "Weird But True!"
+      },
+      {
+        "href": "http://kids.nationalgeographic.com/weird-but-true",
+        "label": "Weird But True!"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/birds",
+        "label": "birds"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/birds/facts/atlantic-puffin",
+        "label": "puffins"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals/facts/brown-bear",
+        "label": "brown bears"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals/facts/caribou",
+        "label": "caribou"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals/facts/river-otter",
+        "label": "otters"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/animals/mammals/facts/wolverine",
+        "label": "wolverines"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/countries/article/denmark",
+        "label": "Denmark"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/countries/article/germany",
+        "label": "Germany"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/countries/article/norway",
+        "label": "Norway"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/countries/article/sweden",
+        "label": "Sweden"
+      },
+      {
+        "href": "https://kids.nationalgeographic.com/geography/states/article/massachusetts",
+        "label": "Massachusetts"
+      }
+    ]
+  }
+}
