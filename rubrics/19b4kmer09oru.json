@@ -1,0 +1,62 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.129",
+  "key": "19b4kmer09oru",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "How Scandinavians responded to geography, small population, or workforce challenges",
+    "note": "Students need only two examples, so an answer covering two of the three challenge areas is complete.",
+    "anyOf": 2,
+    "criteria": [
+      {
+        "term": "Geography and transportation",
+        "needs": "Names a geographic transportation challenge (long distances, coastlines, islands, water) and the response of investing in transportation, such as the Øresund Bridge linking Denmark and Sweden."
+      },
+      {
+        "term": "Small populations and global markets",
+        "needs": "Explains that because home populations are small, businesses sell abroad and compete internationally, naming a company or industry from the reading such as Spotify, Ericsson, Volvo, IKEA, Skype, or Nokia."
+      },
+      {
+        "term": "Changing workforce and immigration",
+        "needs": "Explains that aging populations and low birth rates are met by immigration, with immigrants adding population, skills, labor, or businesses to the workforce."
+      }
+    ],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Two challenges clearly named, each with the Scandinavian response and a specific example from the reading."
+      },
+      {
+        "score": 3,
+        "means": "One challenge fully explained with its response and example; the second example is missing or unconnected."
+      },
+      {
+        "score": 2,
+        "means": "Names bridges, companies, or immigration but never says what challenge they answer."
+      },
+      {
+        "score": 1,
+        "means": "Writes about Scandinavia's economy or people but gives no challenge and no response."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "Scandinavia has lots of water and long distances, so Denmark and Sweden built the Øresund Bridge so people can commute and trade. Also their populations are small, so companies like Volvo, IKEA, and Spotify sell their stuff all over the world."
+      },
+      {
+        "score": 3,
+        "answer": "The Nordic countries have aging populations and not many babies are born, so immigration helps their population grow and immigrants work jobs and start businesses. They also have the Øresund Bridge."
+      },
+      {
+        "score": 2,
+        "answer": "They have the Øresund Bridge between Denmark and Sweden. Sweden also made Spotify, Volvo, and IKEA, and a lot of immigrants move there."
+      },
+      {
+        "score": 1,
+        "answer": "Scandinavia is Denmark, Norway, and Sweden in northern Europe. People there pay high taxes and are some of the happiest people in the world."
+      }
+    ]
+  }
+}
