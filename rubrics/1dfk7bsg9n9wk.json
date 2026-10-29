@@ -1,0 +1,49 @@
+{
+  "what": "Margin rubric. What a correct answer to one lesson question needs and what each score means, written by Margin on a teacher's key. Keyed by a fingerprint of the question; no question text, no student work, no names.",
+  "version": "1.55.171",
+  "key": "1dfk7bsg9n9wk",
+  "points": 0,
+  "grade": 0,
+  "rubric": {
+    "asks": "Who else besides enslaved people is affected by slavery, and how",
+    "note": "Warmup opinion question; any reasonable ripple effect counts, including guesses about families, laws, money, or power.",
+    "anyOf": null,
+    "criteria": [],
+    "bands": [
+      {
+        "score": 4,
+        "means": "Names at least one group or part of society beyond enslaved people and says how it is affected."
+      },
+      {
+        "score": 3,
+        "means": "Names someone or something else affected, but does not say how it is affected."
+      },
+      {
+        "score": 2,
+        "means": "Talks only about harm to enslaved people, or gives a vague idea with no group named."
+      },
+      {
+        "score": 1,
+        "means": "Mentions slavery but offers no idea about who else it touches."
+      }
+    ],
+    "examples": [
+      {
+        "score": 4,
+        "answer": "It changes the laws for everybody, because the government has to make rules saying slavery is allowed and that affects whole towns."
+      },
+      {
+        "score": 3,
+        "answer": "I think it affects the economy and the laws of Texas too."
+      },
+      {
+        "score": 2,
+        "answer": "Slavery was really bad and hurt the people who were enslaved."
+      },
+      {
+        "score": 1,
+        "answer": "Slavery happened in Texas a long time ago."
+      }
+    ]
+  }
+}
