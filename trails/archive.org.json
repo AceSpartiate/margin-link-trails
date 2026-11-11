@@ -1,0 +1,458 @@
+{
+  "what": "Margin link trails. For a public site, the pages known on it and the words on the link. No page text, no student work, no names, no curriculum.",
+  "rule": "A map is only ever consulted for a host the teacher's own page linked, and every page in it is on that host. Margin enforces that when reading this, whatever the file says.",
+  "version": "1.55.265",
+  "checked": "2026-11-11",
+  "trails": {
+    "archive.org": [
+      {
+        "href": "https://archive.org/compress/NutcrackerSuite",
+        "label": "download 47 Files"
+      },
+      {
+        "href": "https://archive.org/compress/NutcrackerSuite/formats=VBR%20MP3,JPEG,ARCHIVE%20BITTORRENT,METADATA,ITEM%20TILE",
+        "label": "download 14 Original"
+      },
+      {
+        "href": "https://archive.org/compress/PeterAndTheWolf_753",
+        "label": "download 12 Files"
+      },
+      {
+        "href": "https://archive.org/compress/PeterAndTheWolf_753/formats=JPEG,VBR%20MP3,ARCHIVE%20BITTORRENT,METADATA,JPEG%20THUMB",
+        "label": "download 7 Original"
+      },
+      {
+        "href": "https://archive.org/compress/RiteOfSpring",
+        "label": "download 13 Files"
+      },
+      {
+        "href": "https://archive.org/compress/RiteOfSpring/formats=VBR%20MP3,ARCHIVE%20BITTORRENT,METADATA,ITEM%20TILE",
+        "label": "download 5 Original"
+      },
+      {
+        "href": "https://archive.org/details/78rpm",
+        "label": "78 RPMs and Cylinder Recordings"
+      },
+      {
+        "href": "https://archive.org/details/911",
+        "label": "Understanding 9/11"
+      },
+      {
+        "href": "https://archive.org/details/@bob_varney",
+        "label": "Bob Varney"
+      },
+      {
+        "href": "https://archive.org/details/@pookie040403",
+        "label": "pookie040403"
+      },
+      {
+        "href": "https://archive.org/details/GratefulDead",
+        "label": "Grateful Dead"
+      },
+      {
+        "href": "https://archive.org/details/americana",
+        "label": "American Libraries"
+      },
+      {
+        "href": "https://archive.org/details/amesresearchcenterimagelibrary",
+        "label": "Ames Research Center"
+      },
+      {
+        "href": "https://archive.org/details/animationandcartoons",
+        "label": "Animation & Cartoons"
+      },
+      {
+        "href": "https://archive.org/details/apkarchive",
+        "label": "APK"
+      },
+      {
+        "href": "https://archive.org/details/artsandmusicvideos",
+        "label": "Arts & Music"
+      },
+      {
+        "href": "https://archive.org/details/audio",
+        "label": "All Audio"
+      },
+      {
+        "href": "https://archive.org/details/audio_bookspoetry",
+        "label": "Audio Books & Poetry"
+      },
+      {
+        "href": "https://archive.org/details/audio_music",
+        "label": "Music, Arts & Culture"
+      },
+      {
+        "href": "https://archive.org/details/audio_news",
+        "label": "News & Public Affairs"
+      },
+      {
+        "href": "https://archive.org/details/audio_religion",
+        "label": "Spirituality & Religion"
+      },
+      {
+        "href": "https://archive.org/details/audio_tech",
+        "label": "Computers, Technology and Science"
+      },
+      {
+        "href": "https://archive.org/details/biodiversity",
+        "label": "Biodiversity Heritage Library"
+      },
+      {
+        "href": "https://archive.org/details/booksbylanguage",
+        "label": "Books by Language"
+      },
+      {
+        "href": "https://archive.org/details/cd-roms",
+        "label": "CD-ROM Software"
+      },
+      {
+        "href": "https://archive.org/details/cdbbsarchive",
+        "label": "Shareware CD-ROMs"
+      },
+      {
+        "href": "https://archive.org/details/cdromimages",
+        "label": "CD-ROM Images"
+      },
+      {
+        "href": "https://archive.org/details/cdromsoftware",
+        "label": "CD-ROM Software Library"
+      },
+      {
+        "href": "https://archive.org/details/classicpcgames",
+        "label": "Classic PC Games"
+      },
+      {
+        "href": "https://archive.org/details/clevelandart",
+        "label": "Cleveland Museum of Art"
+      },
+      {
+        "href": "https://archive.org/details/computersandtechvideos",
+        "label": "Computers & Technology"
+      },
+      {
+        "href": "https://archive.org/details/consolelivingroom",
+        "label": "Console Living Room"
+      },
+      {
+        "href": "https://archive.org/details/coverartarchive",
+        "label": "Cover Art"
+      },
+      {
+        "href": "https://archive.org/details/culturalandacademicfilms",
+        "label": "Cultural & Academic Films"
+      },
+      {
+        "href": "https://archive.org/details/democracy_now_vid",
+        "label": "Democracy Now!"
+      },
+      {
+        "href": "https://archive.org/details/democracys-library",
+        "label": "Democracy’s Library"
+      },
+      {
+        "href": "https://archive.org/details/doom-cds",
+        "label": "DOOM Level CD"
+      },
+      {
+        "href": "https://archive.org/details/ephemera",
+        "label": "Ephemeral Films"
+      },
+      {
+        "href": "https://archive.org/details/etree",
+        "label": "Live Music Archive"
+      },
+      {
+        "href": "https://archive.org/details/fedlink",
+        "label": "FEDLINK (US)"
+      },
+      {
+        "href": "https://archive.org/details/flickr-ows",
+        "label": "Occupy Wall Street Flickr"
+      },
+      {
+        "href": "https://archive.org/details/flickrcommons",
+        "label": "Flickr Commons"
+      },
+      {
+        "href": "https://archive.org/details/folkscanomy",
+        "label": "Folkscanomy"
+      },
+      {
+        "href": "https://archive.org/details/gamevideos",
+        "label": "Videogame Videos"
+      },
+      {
+        "href": "https://archive.org/details/genealogy",
+        "label": "Genealogy"
+      },
+      {
+        "href": "https://archive.org/details/government-documents",
+        "label": "Government Documents"
+      },
+      {
+        "href": "https://archive.org/details/gutenberg",
+        "label": "Project Gutenberg"
+      },
+      {
+        "href": "https://archive.org/details/hifidelity",
+        "label": "The High Fidelity Emporium and Orchestrion"
+      },
+      {
+        "href": "https://archive.org/details/hifidelity_potpourri",
+        "label": "The High Fidelity Emporium and Orchestrion Potpourri"
+      },
+      {
+        "href": "https://archive.org/details/historicalsoftware",
+        "label": "Historical Software"
+      },
+      {
+        "href": "https://archive.org/details/iacl",
+        "label": "Children's Library"
+      },
+      {
+        "href": "https://archive.org/details/image",
+        "label": "All Images"
+      },
+      {
+        "href": "https://archive.org/details/internetarcade",
+        "label": "Internet Arcade"
+      },
+      {
+        "href": "https://archive.org/details/kodi_archive",
+        "label": "Kodi Archive and Support File"
+      },
+      {
+        "href": "https://archive.org/details/librivoxaudio",
+        "label": "Librivox Free Audio"
+      },
+      {
+        "href": "https://archive.org/details/lincolncollection",
+        "label": "Lincoln Collection"
+      },
+      {
+        "href": "https://archive.org/details/maps_usgs",
+        "label": "USGS Maps"
+      },
+      {
+        "href": "https://archive.org/details/metropolitanmuseumofart-gallery",
+        "label": "Metropolitan Museum"
+      },
+      {
+        "href": "https://archive.org/details/movies",
+        "label": "All Video"
+      },
+      {
+        "href": "https://archive.org/details/moviesandfilms",
+        "label": "Movies"
+      },
+      {
+        "href": "https://archive.org/details/nasa",
+        "label": "NASA Images"
+      },
+      {
+        "href": "https://archive.org/details/netlabels",
+        "label": "Netlabels"
+      },
+      {
+        "href": "https://archive.org/details/newsandpublicaffairs",
+        "label": "News & Public Affairs"
+      },
+      {
+        "href": "https://archive.org/details/nsa",
+        "label": "TV NSA Clip Library"
+      },
+      {
+        "href": "https://archive.org/details/occupywallstreet",
+        "label": "Occupy Wall Street"
+      },
+      {
+        "href": "https://archive.org/details/oldtimeradio",
+        "label": "Old Time Radio"
+      },
+      {
+        "href": "https://archive.org/details/opensource_audio",
+        "label": "Community Audio"
+      },
+      {
+        "href": "https://archive.org/details/podcasts",
+        "label": "Podcasts"
+      },
+      {
+        "href": "https://archive.org/details/prelinger",
+        "label": "Prelinger Archives"
+      },
+      {
+        "href": "https://archive.org/details/radio",
+        "label": "Radio News Archive"
+      },
+      {
+        "href": "https://archive.org/details/smithsonian",
+        "label": "Smithsonian Libraries"
+      },
+      {
+        "href": "https://archive.org/details/software",
+        "label": "All Software"
+      },
+      {
+        "href": "https://archive.org/details/softwarecapsules",
+        "label": "Software Capsules Compilation"
+      },
+      {
+        "href": "https://archive.org/details/softwarelibrary",
+        "label": "Software Library"
+      },
+      {
+        "href": "https://archive.org/details/softwarelibrary_msdos",
+        "label": "MS-DOS"
+      },
+      {
+        "href": "https://archive.org/details/softwarelibrary_msdos_games",
+        "label": "MS-DOS Games"
+      },
+      {
+        "href": "https://archive.org/details/softwarelibrary_zx_spectrum",
+        "label": "ZX Spectrum"
+      },
+      {
+        "href": "https://archive.org/details/softwaresites",
+        "label": "Software Sites"
+      },
+      {
+        "href": "https://archive.org/details/solarsystemcollection",
+        "label": "Solar System Collection"
+      },
+      {
+        "href": "https://archive.org/details/spiritualityandreligion",
+        "label": "Spirituality & Religion"
+      },
+      {
+        "href": "https://archive.org/details/sports",
+        "label": "Sports Videos"
+      },
+      {
+        "href": "https://archive.org/details/television",
+        "label": "Television"
+      },
+      {
+        "href": "https://archive.org/details/texts",
+        "label": "All Texts"
+      },
+      {
+        "href": "https://archive.org/details/toronto",
+        "label": "Canadian Libraries"
+      },
+      {
+        "href": "https://archive.org/details/tosec",
+        "label": "Old School Emulation"
+      },
+      {
+        "href": "https://archive.org/details/tucows",
+        "label": "Tucows Software Library"
+      },
+      {
+        "href": "https://archive.org/details/tv",
+        "label": "TV News"
+      },
+      {
+        "href": "https://archive.org/details/universallibrary",
+        "label": "Universal Library"
+      },
+      {
+        "href": "https://archive.org/details/vintagesoftware",
+        "label": "Vintage Software"
+      },
+      {
+        "href": "https://archive.org/details/vlogs",
+        "label": "Vlogs"
+      },
+      {
+        "href": "https://archive.org/details/youth_media",
+        "label": "Youth Media"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite",
+        "label": "SHOW ALL"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/01_%20Overture%20Miniature.ogg",
+        "label": "01_ Overture Miniature.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/02_%20March.ogg",
+        "label": "02_ March.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/03_%20Dance%20Of%20The%20Sugar-Plum%20Fairy.ogg",
+        "label": "03_ Dance Of The Sugar-Plum Fairy.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/04_%20Trepak.ogg",
+        "label": "04_ Trepak.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/05_%20Arabian%20Dance.ogg",
+        "label": "05_ Arabian Dance.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/06_%20Chinese%20Dance.ogg",
+        "label": "06_ Chinese Dance.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/07_%20Dance%20Of%20The%20Flutes.ogg",
+        "label": "07_ Dance Of The Flutes.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/08_%20Waltz%20Of%20The%20Flowers.ogg",
+        "label": "08_ Waltz Of The Flowers.ogg download"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/NutcrackerSuite_archive.torrent",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/NutcrackerSuite/NutcrackerSuite_vbr.m3u",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/PeterAndTheWolf_753",
+        "label": "SHOW ALL"
+      },
+      {
+        "href": "https://archive.org/download/PeterAndTheWolf_753/PeterAndTheWolf_01.ogg",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/PeterAndTheWolf_753/PeterAndTheWolf_753_archive.torrent",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/PeterAndTheWolf_753/PeterAndTheWolf_753_vbr.m3u",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/RiteOfSpring",
+        "label": "SHOW ALL"
+      },
+      {
+        "href": "https://archive.org/download/RiteOfSpring/05LeSacreDuPrintempstheRiteOfSpringBalletIn2PartsForOrchestra.ogg",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/RiteOfSpring/RiteOfSpring_64kb.m3u",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/RiteOfSpring/RiteOfSpring_archive.torrent",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/download/RiteOfSpring/RiteOfSpring_vbr.m3u",
+        "label": "download 1 file"
+      },
+      {
+        "href": "https://archive.org/projects",
+        "label": "Projects"
+      }
+    ]
+  }
+}
